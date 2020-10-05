@@ -32,7 +32,8 @@ class empform(forms.Form):
 
         if not re.findall('[()[\]{}|\\`~!@#$%^&*_\-+=;:\'",<>./?]', passwd):
             raise forms.ValidationError("The password must contain at least 1 symbol: " +
-                  "()[]{}|\`~!@#$%^&*_-+=;:'\",<>./?")
+                    "()[]{}|\`~!@#$%^&*_-+=;:'\",<>./?")
+        
         else:
             return passwd
     
