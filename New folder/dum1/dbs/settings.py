@@ -77,7 +77,7 @@ STATICFILES_DIRS=['static']
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': "djdbmodelform",
+        'NAME': "djangoform",
         'USER': 'root',
         'PASSWORD': 'root',
         'HOST': 'localhost',

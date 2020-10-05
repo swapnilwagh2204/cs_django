@@ -14,13 +14,11 @@ def emp(req5):
     else:
         print("post request received")
         r=req5.POST['rn']
-        # print(r)
+        print(r)
         n=req5.POST['name']
-        # print(n)
+        print(n)
         m=req5.POST['marks']
-        sub=req5.POST['subject']
-        sch=req5.POST['school']
-        s1=student(rn=r,name=n,marks=m,subject=sch,school=sch)
+        s1=student(rn=r,name=n,marks=m)
         s1.save()
         return HttpResponse(" record entered")
 
@@ -36,9 +34,9 @@ def pstusr(req6):
     else:
         print("post request received")
         con=req6.POST['content']
-        sm=req6.POST['sample']
+      
         cr_by=req6.POST['created_by']
-        s1=postt(content=con,sample=sm,created_by=cr_by)
+        s1=postt(content=con,created_by=cr_by)
         s1.save()
         return HttpResponse(" record entered")
 

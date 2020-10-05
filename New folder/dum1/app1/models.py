@@ -7,8 +7,6 @@ class student(models.Model):
     name=models.CharField(max_length=100)
     rn=models.IntegerField()
     marks=models.FloatField()
-    subject=models.CharField(max_length=100)
-    school=models.CharField(max_length=100)
     
     def __str__(self):
        return "name:-{}\n rollno:-{}\n marks:-{}\n subject:-{}".format(self.name, self.rn, self.marks)
@@ -16,7 +14,6 @@ class student(models.Model):
 class postt(models.Model):
     content=models.TextField()
     created_by=models.CharField(max_length=100)
-    sample=models.CharField(max_length=100)
     cr_date=models.DateTimeField(auto_now_add=True)   
 
     def __str__(self):

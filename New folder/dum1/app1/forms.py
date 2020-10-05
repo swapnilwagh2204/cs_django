@@ -1,16 +1,11 @@
 from django import forms
-from django.db.models import fields
-from . models import student,postt
-class studentform(forms.ModelForm):
-    class Meta:
-        model=student
-        fields="__all__"
-        # fields=("subject",'school','marks')  #je aplyala paije te field havyat tr
-        # exclude =['marks','name','school']  # ji field paije nai te hyat takaychya
+ 
+class studentform(forms.Form):
+    name = forms.CharField(max_length=100)
+    rn=forms.IntegerField()
+    marks=forms.FloatField()
 
 
-class postuserform(forms.ModelForm):
-    class Meta:
-        model=postt
-        fields="__all__"
-    
+class postuserform(forms.Form):
+    content =forms.CharField(max_length=1000)
+    created_by=forms.CharField(max_length=100)
