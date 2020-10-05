@@ -8,19 +8,21 @@ def emp(req5):
         print("get request received")
         request=req5
         stu=studentform()
-        context ={'st':stu}
-        template_name="app1/form.html"
-        return render(request, template_name, context)
     else:
         print("post request received")
-        r=req5.POST['rn']
-        print(r)
-        n=req5.POST['name']
-        print(n)
-        m=req5.POST['marks']
-        s1=student(rn=r,name=n,marks=m)
-        s1.save()
-        return HttpResponse(" record entered")
+        stu=studentform(req5.POST)
+        if stu.is_valid():
+            print("form is valid")
+            nm=stu.cleaned_data['name']
+            rn=stu.cleaned_data['rn']
+            marks=stu.cleaned_data['marks']
+            s1=student(rn=rn,name=nm,marks=marks)
+            s1.save()
+            return HttpResponse(" record entered")
+    context ={'st':stu}
+    template_name="app1/form.html"
+    return render(req5, template_name, context)
+    
 
 
 def pstusr(req6):
