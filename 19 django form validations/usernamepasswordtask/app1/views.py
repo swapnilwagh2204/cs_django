@@ -10,7 +10,7 @@ def empview(req5):
         emp1=empform()
     else:
         print("post request received")
-        emp1=empform(req5.POST)
+        emp1=empform(req5.POST)   #form with data
         if emp1.is_valid():
             print("form is valid")
             un=emp1.cleaned_data['username']
