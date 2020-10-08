@@ -16,6 +16,7 @@
       <tr>
         <th>content</th>
         <th>cr_date</th>
+        <th>operation</th>
       </tr>
         </thead>
         {% for i in us %}
@@ -23,7 +24,11 @@
         <tr>
           <td>{{i.content}}</td>  
             <td>{{i.cr_date}}</td>
-        {% endfor %}
+            <td>
+            <a class="btn btn-danger" href="a1/delete/{{i.id}}">delete</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a class="btn btn-success" href="/a1/update/{{i.id}}/">update</a><br>
+          </td>
+            {% endfor %}
       </tr>
     
     </div>

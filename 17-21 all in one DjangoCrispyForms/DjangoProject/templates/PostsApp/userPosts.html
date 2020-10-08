@@ -1,0 +1,16 @@
+{% extends 'PostsApp/base.html' %} {% load crispy_forms_tags %} {% block title
+%}
+<title>Signup</title>
+{% endblock %} {% block body_elements%}
+<h1>User Posts</h1>
+<div style="width: 600px; margin-left: 400px">
+  <h1>{{ current_user }}'s Posts</h1>
+  <br /><br />
+  {% for p in posts %}
+  <div class="well well-sm">
+    <h3>{{p.title}}</h3>
+    {{p.content}} <br /><br />
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}

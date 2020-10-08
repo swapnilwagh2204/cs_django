@@ -8,7 +8,7 @@ class UsersAdmin(admin.ModelAdmin):
 
 
 class posttadmin(admin.ModelAdmin):
-    list_display =['content','created_by','cr_date']
+    list_display =['content','cr_date']
 
 
 admin.site.register(Users, UsersAdmin)

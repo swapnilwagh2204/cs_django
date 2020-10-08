@@ -36,7 +36,6 @@ def loginview(request):
         if Users.objects.get(Username=u,Password=p):
             
             posts= postt.objects.filter(overview__Username=u)
-            # Tweets.objects.(user=current_user
             context = {"us": posts}
             return render(request,"app1/display.html",context)
         return render(request,"app1/login.html")
