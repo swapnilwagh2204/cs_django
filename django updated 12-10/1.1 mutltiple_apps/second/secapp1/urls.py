@@ -1,0 +1,9 @@
+from django.urls import path
+from . import views
+
+urlpatterns=[
+    path("view1/",views.view1),
+    path("view11/",views.view11)
+]
+
+

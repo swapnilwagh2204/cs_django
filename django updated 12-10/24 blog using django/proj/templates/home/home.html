@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block body %}
+
+<div class="container">
+  <!-- <h2>Popular Blogposts</h2> -->
+  <div
+    class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 my-4 position-relative"
+  >
+  <img src='{% static "/home/verge.jpg" %}' alt="not loaded">
+  
+  
+</div>
+<div class="container">
+  <div class="jumbotron my-3">
+    <h1 class="display-4">Welcome to my blog!</h1>
+    <p class="lead">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, dolore
+      cupiditate! Officia sit odit deserunt quis dolores ipsa laudantium rerum
+      nam praesentium, totam voluptatibus cum velit fugiat nulla voluptates
+      cumque aperiam. Ipsa!
+    </p>
+    <hr class="my-4" />
+    
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni fugit
+      assumenda autem quas consequatur!
+    </p>
+    <a class="btn btn-primary btn-lg" href="/blog" role="button">Go to Blog</a>
+  </div>
+</div>
+{% endblock %}
+

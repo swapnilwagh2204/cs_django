@@ -1,0 +1,18 @@
+{% extends 'PostsApp/base.html' %} {% load crispy_forms_tags %} {% block title
+%}
+<title>Signup</title>
+{% block body_elements%}
+<h1>User Posts</h1>
+<div style="width: 600px; margin-left: 400px">
+  {% for p in allPosts %}
+  <div class="well well-sm">
+    <h3>{{p.title}}</h3>
+    {{p.content}} <br /><br />
+    User&nbsp;-&nbsp; {{p.author}}
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{p.date}}<br />
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}
