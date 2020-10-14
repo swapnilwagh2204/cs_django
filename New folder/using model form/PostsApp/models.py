@@ -1,7 +1,6 @@
 from django.db import models
 from django.contrib.auth.models import User
 # Create your models here.
-from taggit.managers import TaggableManager
 
 
 class registration(models.Model):
@@ -20,8 +19,3 @@ class posts(models.Model):
     title = models.CharField(max_length=40)
     content = models.CharField(max_length=500)
     date = models.DateTimeField(auto_now_add=True)
-    slug = models.SlugField(unique=True, max_length=100)
-    tags = TaggableManager()
-
-    def __str__(self):
-        return self.title

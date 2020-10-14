@@ -9,6 +9,36 @@ from django.db.models import Q
 # Create your views here.
 
 
+def dummy(request):
+    if request.method == 'GET':
+        request = request
+        template_name = 'PostsApp/dummy.html'
+        context = {}
+        return render(request, template_name, context)
+    else:
+        n = request.POST['name']
+        print(n)
+        template_name = 'PostsApp/dummy.html'
+        context = {}
+        resp = render(request, template_name, context)
+        print('setting a cookies')
+        resp.set_cookie('name', n)
+        resp.set_cookie('name', 'abcd')
+        resp.set_cookie('rollno', 10)
+        print('cookies set')
+        return resp
+
+
+def dummy2(request):
+    n=request.COOKIES.get('name')
+    r=request.COOKIES.get('rollno')
+
+    template_name = 'PostsApp/dummy2.html'
+    context = {'name':n,'rollno':r}
+
+    return render(request, template_name, context)
+
+
 def regView(request):
     if request.method == 'GET':
         form = UserCreationForm()
