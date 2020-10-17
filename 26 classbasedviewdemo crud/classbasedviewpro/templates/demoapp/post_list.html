@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {% if post %}
+        {% for obj in post %}
+            Title: <a href="{{ obj.get_absolute_url }}">{{obj.title}}</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            content : {{obj.content}}&nbsp;&nbsp;&nbsp;&nbsp;
+            created_by : {{obj.created_by.username}}<br>
+            <hr>
+        {% endfor %}
+    {% else %}
+        <h1>No Records to Display</h1>
+    {% endif %}
+    {% if user %}
+        <h1>User List is available</h1>
+    {% endif %}
+
+</body>
+</html>

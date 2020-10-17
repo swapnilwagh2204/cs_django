@@ -3,20 +3,20 @@ from django.contrib.auth.models import User
 from django.utils.timezone import now
 
 
-
 class Tag(models.Model):
     tag_name = models.CharField(max_length=100)
 
     def __str__(self):
         return self.tag_name
 
+
 class Post(models.Model):
-    tag=models.ManyToManyField(Tag)
+    tag = models.ManyToManyField(Tag)
     sno = models.AutoField(primary_key=True)
     title = models.CharField(max_length=255)
-    author = models.CharField(max_length=14)
+    author = models.CharField(max_length=14, default='admin')
     slug = models.CharField(max_length=130)
-    timeStamp = models.DateTimeField(blank=True)
+    timeStamp = models.DateTimeField(auto_now_add=True)
     content = models.TextField()
 
     def __str__(self):

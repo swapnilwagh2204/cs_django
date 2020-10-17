@@ -23,6 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '$&snr$dbxzoal*9ib+d6_fjavxc9_+qs8%9^y_#4g_b)^xg6^@'
+CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -41,7 +42,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'home.apps.HomeConfig',
     'blog.apps.BlogConfig',
-    'django.contrib.humanize'
+    'django.contrib.humanize',
+    'crispy_forms'
 
 ]
 

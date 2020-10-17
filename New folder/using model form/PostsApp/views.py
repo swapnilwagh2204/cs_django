@@ -1,82 +1,52 @@
-from django.contrib.auth import authenticate, login, logout
-from django.contrib.auth.decorators import login_required
-from django.contrib.auth.forms import UserCreationForm
 from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from .forms import UserForm, PostsForm, postupdateform
 from .models import registration, posts
 from django.db.models import Q
+from django.contrib.auth.decorators import login_required
 # Create your views here.
 
 
-def dummy(request):
-    if request.method == 'GET':
-        request = request
-        template_name = 'PostsApp/dummy.html'
-        context = {}
-        return render(request, template_name, context)
+def regView(req):
+    if req.method == 'GET':
+        form = UserForm()
     else:
-        n = request.POST['name']
-        print(n)
-        template_name = 'PostsApp/dummy.html'
-        context = {}
-        resp = render(request, template_name, context)
-        print('setting a cookies')
-        resp.set_cookie('name', n)
-        resp.set_cookie('name', 'abcd')
-        resp.set_cookie('rollno', 10)
-        print('cookies set')
-        return resp
-
-
-def dummy2(request):
-    n=request.COOKIES.get('name')
-    r=request.COOKIES.get('rollno')
-
-    template_name = 'PostsApp/dummy2.html'
-    context = {'name':n,'rollno':r}
-
-    return render(request, template_name, context)
-
-
-def regView(request):
-    if request.method == 'GET':
-        form = UserCreationForm()
-    else:
-        form = UserCreationForm(request.POST)
+        form = UserForm(req.POST)
         if form.is_valid():
-            form.save()
+            n = form.cleaned_data['Name']
+            e = form.cleaned_data['Email']
+            g = form.cleaned_data['Gender']
+            un = form.cleaned_data['Username']
+            pas = form.cleaned_data['Password']
+            entry = registration(name=n, email=e, gender=g,
+                                 username=un, password=pas)
+            entry.save()
             return redirect('Userlogin')
     template_name = 'PostsApp/registration.html'
-    context = {'form': form}
-    return render(request, template_name, context)
+    context = {'form': form, }
+    return render(req, template_name, context)
 
 
-def loginView(request):
-    if request.method == 'GET':
-        template_name = 'PostsApp/login.html'
-        context = {}
-        return render(request, template_name, context)
-    else:
-        u = request.POST['un']
-        p = request.POST['pas']
-        print(u, p)
-        user = authenticate(username=u, password=p)
-        if user is not None:
-            login(request, user)
-            if request.GET.get('next'):
-                return redirect(request.GET.get('next'))
-            return redirect('UserPosts')
-        else:
-            return HttpResponse("invalid credentials")
+def loginView(req):
+    if req.method == 'POST':
+        usernm = req.POST['un']
+        pswd = req.POST['pas']
+        user = registration.objects.filter(username=usernm, password=pswd)
+        if user:
+            template_name = 'PostsApp/userPosts.html'
+            # all_posts = posts.objects.all().order_by('-date')
+            # context = {'posts': all_posts, 'current_user': usernm}
+            user_posts = posts.objects.filter(
+                author__username=usernm).order_by('-date')
+            context = {'posts': user_posts, 'current_user': usernm}
+            return render(req, template_name, context)
+
+    template_name = 'PostsApp/login.html'
+    context = {}
+    return render(req, template_name, context)
 
 
-def logoutview(request):
-    logout(request)
-    return redirect('Userlogin')
-
-
-@login_required(login_url='Userlogin')
+@login_required(login_url='/postapp/login/')
 def UserPosts(req):
     template_name = 'PostsApp/allPosts.html'
     user_posts = posts.objects.all().order_by('-date')
@@ -84,7 +54,6 @@ def UserPosts(req):
     return render(req, template_name, context)
 
 
-@login_required(login_url='Userlogin')
 def postView(req):
     if req.method == 'GET':
         template_name = 'PostsApp/addPost.html'
@@ -100,7 +69,7 @@ def postView(req):
             # date = form.cleaned_data['Date']
             new_post = posts(author=auth, title=title, content=content)
             new_post.save()
-            return redirect('AddPost')
+            return redirect('final')
 
 
 def finalView(req):

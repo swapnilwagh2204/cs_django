@@ -1,7 +1,14 @@
-from blog.models import Post, BlogComment,Tag
+from blog.models import Post, BlogComment, Tag
 from django.contrib import admin
 # Register your models here.
-admin.site.register(Post)
+
+
+class PostAdmin(admin.ModelAdmin):
+    list_display = ['pk', 'content', 'timeStamp']
+
+
+admin.site.register(Post, PostAdmin)
+
 
 admin.site.register(BlogComment)
 

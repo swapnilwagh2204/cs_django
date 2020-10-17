@@ -1,0 +1,11 @@
+{% extends 'base.html' %}  
+  <title>Add Post</title>
+  {% block body %}
+  <div style="margin-left: 400px">
+    <form action="" method="post" class="jumbotron" style="width: 500px">
+      {% csrf_token %} {{form.as_p}}
+      <button type="submit">submit</button>
+    </form>
+  </div>
+  {% endblock %}
+  

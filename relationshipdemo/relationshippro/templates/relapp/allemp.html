@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {% if empobj %}
+    <table>
+        <thead>
+            <th>username</th>
+            <th>fullname</th>
+            <th>address</th>
+            <th>gender</th>
+            <th>city</th>
+        </thead>
+        <tbody>
+            {% for obj in empobj %}
+            <tr>
+                <td>{{obj.username}}</td>
+                <td>{{obj.fullname}}</td>
+                <td>{{obj.address}}</td>
+                <td>{{obj.gender}}</td>
+                <td>{{obj.city}}</td>
+                <td><a href="{% url 'update_view' pk=obj.id %}">update</a></td>
+                <td><a href="{% url 'delete_view' pk=obj.id %}">delete</a></td>
+
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% else %}
+    <h1>No Records to Display</h1>
+    {% endif %}
+</body>
+</html>

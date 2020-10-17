@@ -5,16 +5,29 @@
 <div class="container my-3">
   <h2 class="blog-post-title">{{post.title}}</h2>
   <p class="blog-post-meta">
-    {{post.timeStamp}} by <b>{{post.author}}</b></a>
+    {{post.timeStamp}} by <b>admin</b></a>
   </p>
   <p>{{post.content}}</p>
   <hr />
+  
+  {% if user.is_staff %}
+    
+  <a class="btn btn-danger" href="/blog/delete/{{post.sno}}">delete</a
+    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a class="btn btn-success" href="/blog/update/{{post.sno}}/">update</a><br />
+  
+  {% endif %}
+    </div>
 </div>
 
 <div class="container">
   <h2>Comments ({{comments.count}})</h2>
   <div class="my-2">
+
+    
+      
     {% if user.is_authenticated %}
+
     <form action="/blog/postComment" method="post">
       {% csrf_token %}
       <div class="form-group">

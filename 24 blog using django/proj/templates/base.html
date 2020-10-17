@@ -43,6 +43,7 @@
         <li class="nav-item {% block blogactive %}  {% endblock blogactive %} ">
           <a class="nav-link" href="/blog">Blog</a>
         </li>
+  
 
       </ul>
       <div class="ml-auto form-inline ">
@@ -56,6 +57,7 @@
 
 
         {% if user.is_authenticated %}
+
         <ul class="navbar-nav mr-2">
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href='#' id="navbarDropdown" role="button" data-toggle="dropdown">
@@ -151,8 +153,7 @@
 
 
 
-
-  {% block body %} {% endblock body %}
+  {% block body %} {% endblock %}
 
   <!-- Login Modal -->
   <div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="loginModal" aria-hidden="true">

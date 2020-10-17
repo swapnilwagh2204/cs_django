@@ -3,7 +3,6 @@ from django.core import validators
 from .validations import nameValidator, usernameValidator, emailValidator
 from .models import registration, posts
 import datetime
-from django.contrib.auth.models import User
 
 
 class UserForm(forms.Form):
@@ -16,7 +15,7 @@ class UserForm(forms.Form):
 
 
 class PostsForm(forms.Form):
-    Author = forms.ModelChoiceField(queryset=User.objects.all())
+    Author = forms.ModelChoiceField(queryset=registration.objects.all())
     Title = forms.CharField(max_length=40)
     Content = forms.CharField(widget=forms.Textarea)
     # Date = forms.DateField(initial=datetime.date.today)

@@ -65,8 +65,8 @@ def postView(req):
             title = form.cleaned_data['Title']
             content = form.cleaned_data['Content']
             # date = form.cleaned_data['Date']
-            new_post = posts(author=auth, title=title, content=content)
             new_post.save()
+            new_post = posts(author=auth, title=title, content=content)
             return redirect('final')
 
 

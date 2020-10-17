@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {% if object %}
+        Title : {{object.title}}<br>
+        Content : {{object.content}}<br>
+        Created_by : {{object.created_by.username }}<br>
+    <button type="button"><a href="{% url 'post-update' pk=object.id %}">update</a></button>
+    <button type="button"><a href="{% url 'post-delete' pk=object.id %}">delete</a></button>
+    {% endif %}
+
+</body>
+</html>

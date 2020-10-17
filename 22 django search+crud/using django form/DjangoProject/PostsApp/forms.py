@@ -25,3 +25,4 @@ class postupdateform(forms.Form):
     # Author = forms.ModelChoiceField(queryset=registration.objects.all())
     Title = forms.CharField(max_length=40)
     Content = forms.CharField(widget=forms.Textarea)
+    
