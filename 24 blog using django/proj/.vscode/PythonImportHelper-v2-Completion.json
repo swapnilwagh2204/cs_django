@@ -1,0 +1,1314 @@
+[
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {
+            "value": "\n```python\nimport django.conf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {
+            "value": "\n```python\nimport django.db.models.deletion\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {
+            "value": "\n```python\nimport django.utils.timezone\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "now",
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "isExtraImport": true,
+        "detail": "django.utils.timezone",
+        "documentation": {
+            "value": "\n```python\nimport django.utils.timezone\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "template",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {
+            "value": "\n```python\nimport django\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {
+            "value": "\n```python\nimport django\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Post",
+        "importPath": "blog.models",
+        "description": "blog.models",
+        "isExtraImport": true,
+        "detail": "blog.models",
+        "documentation": {
+            "value": "\n```python\nimport blog.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BlogComment",
+        "importPath": "blog.models",
+        "description": "blog.models",
+        "isExtraImport": true,
+        "detail": "blog.models",
+        "documentation": {
+            "value": "\n```python\nimport blog.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Tag",
+        "importPath": "blog.models",
+        "description": "blog.models",
+        "isExtraImport": true,
+        "detail": "blog.models",
+        "documentation": {
+            "value": "\n```python\nimport blog.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Post",
+        "importPath": "blog.models",
+        "description": "blog.models",
+        "isExtraImport": true,
+        "detail": "blog.models",
+        "documentation": {
+            "value": "\n```python\nimport blog.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BlogComment",
+        "importPath": "blog.models",
+        "description": "blog.models",
+        "isExtraImport": true,
+        "detail": "blog.models",
+        "documentation": {
+            "value": "\n```python\nimport blog.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Tag",
+        "importPath": "blog.models",
+        "description": "blog.models",
+        "isExtraImport": true,
+        "detail": "blog.models",
+        "documentation": {
+            "value": "\n```python\nimport blog.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Post",
+        "importPath": "blog.models",
+        "description": "blog.models",
+        "isExtraImport": true,
+        "detail": "blog.models",
+        "documentation": {
+            "value": "\n```python\nimport blog.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {
+            "value": "\n```python\nimport django.apps\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {
+            "value": "\n```python\nimport django.apps\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {
+            "value": "\n```python\nimport django.test\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {
+            "value": "\n```python\nimport django.test\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "extras",
+        "importPath": "blog.templatetags",
+        "description": "blog.templatetags",
+        "isExtraImport": true,
+        "detail": "blog.templatetags",
+        "documentation": {
+            "value": "\n```python\nimport blog.templatetags\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "views",
+        "importPath": "home",
+        "description": "home",
+        "isExtraImport": true,
+        "detail": "home",
+        "documentation": {
+            "value": "\n```python\nimport home\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Contact",
+        "importPath": "home.models",
+        "description": "home.models",
+        "isExtraImport": true,
+        "detail": "home.models",
+        "documentation": {
+            "value": "\n```python\nimport home.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {
+            "value": "\n```python\nimport os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.asgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "constants",
+        "importPath": "django.contrib.messages",
+        "description": "django.contrib.messages",
+        "isExtraImport": true,
+        "detail": "django.contrib.messages",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.messages\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {
+            "value": "\n```python\nimport pathlib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.wsgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {
+            "value": "\n```python\nimport sys\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "blog.migrations.0001_initial",
+        "description": "blog.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Tag',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "blog.migrations.0001_initial",
+        "documentation": {
+            "value": "\n```python\nfrom blog.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Tag',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_val",
+        "kind": 2,
+        "importPath": "blog.templatetags.extras",
+        "description": "blog.templatetags.extras",
+        "peekOfCode": "def get_val(dict, key):\n    return dict.get(key)",
+        "detail": "blog.templatetags.extras",
+        "documentation": {
+            "value": "\n```python\nfrom blog.templatetags.extras import get_val\n```\n\n```python\n\n\n```\n\n```python\ndef get_val(dict, key):\n    return dict.get(key)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "register",
+        "kind": 5,
+        "importPath": "blog.templatetags.extras",
+        "description": "blog.templatetags.extras",
+        "peekOfCode": "register = template.Library()\n@register.filter(name='get_val')\ndef get_val(dict, key):\n    return dict.get(key)",
+        "detail": "blog.templatetags.extras",
+        "documentation": {
+            "value": "\n```python\nfrom blog.templatetags.extras import register\n```\n\n```python\n\n\n```\n\n```python\nregister = template.Library()\n@register.filter(name='get_val')\ndef get_val(dict, key):\n    return dict.get(key)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PostAdmin",
+        "kind": 6,
+        "importPath": "blog.admin",
+        "description": "blog.admin",
+        "peekOfCode": "class PostAdmin(admin.ModelAdmin):\n    list_display = ['pk', 'content', 'timeStamp']\nadmin.site.register(Post, PostAdmin)\nadmin.site.register(BlogComment)\nadmin.site.register(Tag)",
+        "detail": "blog.admin",
+        "documentation": {
+            "value": "\n```python\nfrom blog.admin import PostAdmin\n```\n\n```python\n\n\n```\n\n```python\nclass PostAdmin(admin.ModelAdmin):\n    list_display = ['pk', 'content', 'timeStamp']\nadmin.site.register(Post, PostAdmin)\nadmin.site.register(BlogComment)\nadmin.site.register(Tag)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BlogConfig",
+        "kind": 6,
+        "importPath": "blog.apps",
+        "description": "blog.apps",
+        "peekOfCode": "class BlogConfig(AppConfig):\n    name = 'blog'",
+        "detail": "blog.apps",
+        "documentation": {
+            "value": "\n```python\nfrom blog.apps import BlogConfig\n```\n\n```python\n\n\n```\n\n```python\nclass BlogConfig(AppConfig):\n    name = 'blog'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PostsForm",
+        "kind": 6,
+        "importPath": "blog.forms",
+        "description": "blog.forms",
+        "peekOfCode": "class PostsForm(forms.Form):\n    tag = forms.MultipleChoiceField(\n        choices=(('python', 'python'), ('adcanced', 'adcanced')))\n    title = forms.CharField(max_length=40)\n    slug = forms.CharField(max_length=30)\n    content = forms.CharField(widget=forms.Textarea)\nclass postupdateform(forms.ModelForm):\n    class Meta:\n        model = Post\n        fields = '__all__'",
+        "detail": "blog.forms",
+        "documentation": {
+            "value": "\n```python\nfrom blog.forms import PostsForm\n```\n\n```python\n\n\n```\n\n```python\nclass PostsForm(forms.Form):\n    tag = forms.MultipleChoiceField(\n        choices=(('python', 'python'), ('adcanced', 'adcanced')))\n    title = forms.CharField(max_length=40)\n    slug = forms.CharField(max_length=30)\n    content = forms.CharField(widget=forms.Textarea)\nclass postupdateform(forms.ModelForm):\n    class Meta:\n        model = Post\n        fields = '__all__'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "postupdateform",
+        "kind": 6,
+        "importPath": "blog.forms",
+        "description": "blog.forms",
+        "peekOfCode": "class postupdateform(forms.ModelForm):\n    class Meta:\n        model = Post\n        fields = '__all__'",
+        "detail": "blog.forms",
+        "documentation": {
+            "value": "\n```python\nfrom blog.forms import postupdateform\n```\n\n```python\n\n\n```\n\n```python\nclass postupdateform(forms.ModelForm):\n    class Meta:\n        model = Post\n        fields = '__all__'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Tag",
+        "kind": 6,
+        "importPath": "blog.models",
+        "description": "blog.models",
+        "peekOfCode": "class Tag(models.Model):\n    tag_name = models.CharField(max_length=100)\n    def __str__(self):\n        return self.tag_name\nclass Post(models.Model):\n    tag = models.ManyToManyField(Tag)\n    sno = models.AutoField(primary_key=True)\n    title = models.CharField(max_length=255)\n    author = models.CharField(max_length=14, default='admin')\n    slug = models.CharField(max_length=130)",
+        "detail": "blog.models",
+        "documentation": {
+            "value": "\n```python\nfrom blog.models import Tag\n```\n\n```python\n\n\n```\n\n```python\nclass Tag(models.Model):\n    tag_name = models.CharField(max_length=100)\n    def __str__(self):\n        return self.tag_name\nclass Post(models.Model):\n    tag = models.ManyToManyField(Tag)\n    sno = models.AutoField(primary_key=True)\n    title = models.CharField(max_length=255)\n    author = models.CharField(max_length=14, default='admin')\n    slug = models.CharField(max_length=130)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "blog.models",
+        "description": "blog.models",
+        "peekOfCode": "class Post(models.Model):\n    tag = models.ManyToManyField(Tag)\n    sno = models.AutoField(primary_key=True)\n    title = models.CharField(max_length=255)\n    author = models.CharField(max_length=14, default='admin')\n    slug = models.CharField(max_length=130)\n    timeStamp = models.DateTimeField(auto_now_add=True)\n    content = models.TextField()\n    def __str__(self):\n        return self.title + \" by \" + self.author",
+        "detail": "blog.models",
+        "documentation": {
+            "value": "\n```python\nfrom blog.models import Post\n```\n\n```python\n\n\n```\n\n```python\nclass Post(models.Model):\n    tag = models.ManyToManyField(Tag)\n    sno = models.AutoField(primary_key=True)\n    title = models.CharField(max_length=255)\n    author = models.CharField(max_length=14, default='admin')\n    slug = models.CharField(max_length=130)\n    timeStamp = models.DateTimeField(auto_now_add=True)\n    content = models.TextField()\n    def __str__(self):\n        return self.title + \" by \" + self.author\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BlogComment",
+        "kind": 6,
+        "importPath": "blog.models",
+        "description": "blog.models",
+        "peekOfCode": "class BlogComment(models.Model):\n    sno = models.AutoField(primary_key=True)\n    comment = models.TextField()\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    post = models.ForeignKey(Post, on_delete=models.CASCADE)\n    parent = models.ForeignKey('self', on_delete=models.CASCADE, null=True)\n    timestamp = models.DateTimeField(default=now)\n    def __str__(self):\n        return self.comment[0:13] + \"...\" + \"by\" + \" \" + self.user.username",
+        "detail": "blog.models",
+        "documentation": {
+            "value": "\n```python\nfrom blog.models import BlogComment\n```\n\n```python\n\n\n```\n\n```python\nclass BlogComment(models.Model):\n    sno = models.AutoField(primary_key=True)\n    comment = models.TextField()\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    post = models.ForeignKey(Post, on_delete=models.CASCADE)\n    parent = models.ForeignKey('self', on_delete=models.CASCADE, null=True)\n    timestamp = models.DateTimeField(default=now)\n    def __str__(self):\n        return self.comment[0:13] + \"...\" + \"by\" + \" \" + self.user.username\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "blog.urls",
+        "description": "blog.urls",
+        "peekOfCode": "urlpatterns = [\n    path('postComment', views.postComment, name=\"postComment\"),\n    path('', views.blogHome, name=\"bloghome\"),\n    path('<str:slug>', views.blogPost, name=\"blogPost\"),\n    path('postadd/', views.postadd, name=\"postadd\"),\n    path('delete/<int:pk>/', views.deleteview, name='delete'),\n    path('update/<int:pk>/', views.updateview, name='update'),\n]",
+        "detail": "blog.urls",
+        "documentation": {
+            "value": "\n```python\nfrom blog.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('postComment', views.postComment, name=\"postComment\"),\n    path('', views.blogHome, name=\"bloghome\"),\n    path('<str:slug>', views.blogPost, name=\"blogPost\"),\n    path('postadd/', views.postadd, name=\"postadd\"),\n    path('delete/<int:pk>/', views.deleteview, name='delete'),\n    path('update/<int:pk>/', views.updateview, name='update'),\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "blogHome",
+        "kind": 2,
+        "importPath": "blog.views",
+        "description": "blog.views",
+        "peekOfCode": "def blogHome(request):\n    allPosts = Post.objects.all().order_by('-timeStamp')\n    context = {'allPosts': allPosts}\n    return render(request, \"blog/blogHome.html\", context)\ndef blogPost(request, slug):\n    post = Post.objects.filter(slug=slug).first()\n    comments = BlogComment.objects.filter(post=post, parent=None)\n    replies = BlogComment.objects.filter(post=post).exclude(parent=None)\n    replyDict = {}\n    for reply in replies:",
+        "detail": "blog.views",
+        "documentation": {
+            "value": "\n```python\nfrom blog.views import blogHome\n```\n\n```python\n\n\n```\n\n```python\ndef blogHome(request):\n    allPosts = Post.objects.all().order_by('-timeStamp')\n    context = {'allPosts': allPosts}\n    return render(request, \"blog/blogHome.html\", context)\ndef blogPost(request, slug):\n    post = Post.objects.filter(slug=slug).first()\n    comments = BlogComment.objects.filter(post=post, parent=None)\n    replies = BlogComment.objects.filter(post=post).exclude(parent=None)\n    replyDict = {}\n    for reply in replies:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "blogPost",
+        "kind": 2,
+        "importPath": "blog.views",
+        "description": "blog.views",
+        "peekOfCode": "def blogPost(request, slug):\n    post = Post.objects.filter(slug=slug).first()\n    comments = BlogComment.objects.filter(post=post, parent=None)\n    replies = BlogComment.objects.filter(post=post).exclude(parent=None)\n    replyDict = {}\n    for reply in replies:\n        if reply.parent.sno not in replyDict.keys():\n            replyDict[reply.parent.sno] = [reply]\n        else:\n            replyDict[reply.parent.sno].append(reply)",
+        "detail": "blog.views",
+        "documentation": {
+            "value": "\n```python\nfrom blog.views import blogPost\n```\n\n```python\n\n\n```\n\n```python\ndef blogPost(request, slug):\n    post = Post.objects.filter(slug=slug).first()\n    comments = BlogComment.objects.filter(post=post, parent=None)\n    replies = BlogComment.objects.filter(post=post).exclude(parent=None)\n    replyDict = {}\n    for reply in replies:\n        if reply.parent.sno not in replyDict.keys():\n            replyDict[reply.parent.sno] = [reply]\n        else:\n            replyDict[reply.parent.sno].append(reply)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "postComment",
+        "kind": 2,
+        "importPath": "blog.views",
+        "description": "blog.views",
+        "peekOfCode": "def postComment(request):\n    if request.method == \"POST\":\n        comment = request.POST.get('comment')\n        user = request.user\n        postSno = request.POST.get('postSno')\n        post = Post.objects.get(sno=postSno)\n        parentSno = request.POST.get('parentSno')\n        if parentSno == \"\":\n            comment = BlogComment(comment=comment, user=user, post=post)\n            comment.save()",
+        "detail": "blog.views",
+        "documentation": {
+            "value": "\n```python\nfrom blog.views import postComment\n```\n\n```python\n\n\n```\n\n```python\ndef postComment(request):\n    if request.method == \"POST\":\n        comment = request.POST.get('comment')\n        user = request.user\n        postSno = request.POST.get('postSno')\n        post = Post.objects.get(sno=postSno)\n        parentSno = request.POST.get('parentSno')\n        if parentSno == \"\":\n            comment = BlogComment(comment=comment, user=user, post=post)\n            comment.save()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "postadd",
+        "kind": 2,
+        "importPath": "blog.views",
+        "description": "blog.views",
+        "peekOfCode": "def postadd(req):\n    if req.method == \"GET\":\n        template_name = 'blog/addpost.html'\n        form = PostsForm()\n        context = {'post_form': form}\n        return render(req, template_name, context)\n    else:\n        form = PostsForm(req.POST)\n        if form.is_valid():\n            print(\"true\")",
+        "detail": "blog.views",
+        "documentation": {
+            "value": "\n```python\nfrom blog.views import postadd\n```\n\n```python\n\n\n```\n\n```python\ndef postadd(req):\n    if req.method == \"GET\":\n        template_name = 'blog/addpost.html'\n        form = PostsForm()\n        context = {'post_form': form}\n        return render(req, template_name, context)\n    else:\n        form = PostsForm(req.POST)\n        if form.is_valid():\n            print(\"true\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "deleteview",
+        "kind": 2,
+        "importPath": "blog.views",
+        "description": "blog.views",
+        "peekOfCode": "def deleteview(request, pk):\n    try:\n        data = Post.objects.get(pk=pk)\n        if request.method == 'GET':\n            context = {'obj': data}\n            template_name = \"blog/delete.html\"\n            return render(request, template_name, context)\n        else:\n            data.delete()\n            return redirect('bloghome')",
+        "detail": "blog.views",
+        "documentation": {
+            "value": "\n```python\nfrom blog.views import deleteview\n```\n\n```python\n\n\n```\n\n```python\ndef deleteview(request, pk):\n    try:\n        data = Post.objects.get(pk=pk)\n        if request.method == 'GET':\n            context = {'obj': data}\n            template_name = \"blog/delete.html\"\n            return render(request, template_name, context)\n        else:\n            data.delete()\n            return redirect('bloghome')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "updateview",
+        "kind": 2,
+        "importPath": "blog.views",
+        "description": "blog.views",
+        "peekOfCode": "def updateview(request, pk):\n    try:\n        data = Post.objects.get(pk=pk)\n        # print(data)\n        if request.method == 'GET':\n            form = postupdateform(instance=data)\n            # print(form)\n            # print(data.pk)\n            template_name = 'blog/update.html'\n            context = {'form': form}",
+        "detail": "blog.views",
+        "documentation": {
+            "value": "\n```python\nfrom blog.views import updateview\n```\n\n```python\n\n\n```\n\n```python\ndef updateview(request, pk):\n    try:\n        data = Post.objects.get(pk=pk)\n        # print(data)\n        if request.method == 'GET':\n            form = postupdateform(instance=data)\n            # print(form)\n            # print(data.pk)\n            template_name = 'blog/update.html'\n            context = {'form': form}\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "home.migrations.0001_initial",
+        "description": "home.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Contact',\n            fields=[\n                ('sno', models.AutoField(primary_key=True, serialize=False)),\n                ('name', models.CharField(max_length=255)),",
+        "detail": "home.migrations.0001_initial",
+        "documentation": {
+            "value": "\n```python\nfrom home.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Contact',\n            fields=[\n                ('sno', models.AutoField(primary_key=True, serialize=False)),\n                ('name', models.CharField(max_length=255)),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "home.migrations.0002_post",
+        "description": "home.migrations.0002_post",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('home', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Post',\n            fields=[\n                ('sno', models.AutoField(primary_key=True, serialize=False)),\n                ('title', models.CharField(max_length=255)),",
+        "detail": "home.migrations.0002_post",
+        "documentation": {
+            "value": "\n```python\nfrom home.migrations.0002_post import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('home', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Post',\n            fields=[\n                ('sno', models.AutoField(primary_key=True, serialize=False)),\n                ('title', models.CharField(max_length=255)),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "home.migrations.0003_delete_post",
+        "description": "home.migrations.0003_delete_post",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('home', '0002_post'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='Post',\n        ),\n    ]",
+        "detail": "home.migrations.0003_delete_post",
+        "documentation": {
+            "value": "\n```python\nfrom home.migrations.0003_delete_post import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('home', '0002_post'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='Post',\n        ),\n    ]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "HomeConfig",
+        "kind": 6,
+        "importPath": "home.apps",
+        "description": "home.apps",
+        "peekOfCode": "class HomeConfig(AppConfig):\n    name = 'home'",
+        "detail": "home.apps",
+        "documentation": {
+            "value": "\n```python\nfrom home.apps import HomeConfig\n```\n\n```python\n\n\n```\n\n```python\nclass HomeConfig(AppConfig):\n    name = 'home'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Contact",
+        "kind": 6,
+        "importPath": "home.models",
+        "description": "home.models",
+        "peekOfCode": "class Contact(models.Model):\n    sno = models.AutoField(primary_key=True)\n    name = models.CharField(max_length=255)\n    phone = models.CharField(max_length=13)\n    email = models.CharField(max_length=100)\n    content = models.TextField()\n    timeStamp = models.DateTimeField(auto_now_add=True, blank=True)\n    def __str__(self):\n        return f\"name={self.name},mail={self.email}\"",
+        "detail": "home.models",
+        "documentation": {
+            "value": "\n```python\nfrom home.models import Contact\n```\n\n```python\n\n\n```\n\n```python\nclass Contact(models.Model):\n    sno = models.AutoField(primary_key=True)\n    name = models.CharField(max_length=255)\n    phone = models.CharField(max_length=13)\n    email = models.CharField(max_length=100)\n    content = models.TextField()\n    timeStamp = models.DateTimeField(auto_now_add=True, blank=True)\n    def __str__(self):\n        return f\"name={self.name},mail={self.email}\"\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "home.urls",
+        "description": "home.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.home, name=\"home\"),\n    path('contact/', views.contact, name=\"contact\"),\n    path('about/', views.about, name=\"about\"),\n    path('search', views.search, name=\"search\"),\n    path('signup', views.handleSignUp, name=\"handleSignUp\"),\n    path('login', views.handeLogin, name=\"handleLogin\"),\n    path('logout', views.handelLogout, name=\"handleLogout\"),\n]",
+        "detail": "home.urls",
+        "documentation": {
+            "value": "\n```python\nfrom home.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('', views.home, name=\"home\"),\n    path('contact/', views.contact, name=\"contact\"),\n    path('about/', views.about, name=\"about\"),\n    path('search', views.search, name=\"search\"),\n    path('signup', views.handleSignUp, name=\"handleSignUp\"),\n    path('login', views.handeLogin, name=\"handleLogin\"),\n    path('logout', views.handelLogout, name=\"handleLogout\"),\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def home(request):\n    return render(request, \"home/home.html\")\ndef contact(request):\n    if request.method == \"POST\":\n        name = request.POST['name']\n        email = request.POST['email']\n        phone = request.POST['phone']\n        content = request.POST['content']\n        if len(name) < 2 or len(email) < 3 or len(phone) < 10 or len(content) < 4:\n            messages.error(request, \"Please fill the form correctly\")",
+        "detail": "home.views",
+        "documentation": {
+            "value": "\n```python\nfrom home.views import home\n```\n\n```python\n\n\n```\n\n```python\ndef home(request):\n    return render(request, \"home/home.html\")\ndef contact(request):\n    if request.method == \"POST\":\n        name = request.POST['name']\n        email = request.POST['email']\n        phone = request.POST['phone']\n        content = request.POST['content']\n        if len(name) < 2 or len(email) < 3 or len(phone) < 10 or len(content) < 4:\n            messages.error(request, \"Please fill the form correctly\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "contact",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def contact(request):\n    if request.method == \"POST\":\n        name = request.POST['name']\n        email = request.POST['email']\n        phone = request.POST['phone']\n        content = request.POST['content']\n        if len(name) < 2 or len(email) < 3 or len(phone) < 10 or len(content) < 4:\n            messages.error(request, \"Please fill the form correctly\")\n        else:\n            contact = Contact(name=name, email=email,",
+        "detail": "home.views",
+        "documentation": {
+            "value": "\n```python\nfrom home.views import contact\n```\n\n```python\n\n\n```\n\n```python\ndef contact(request):\n    if request.method == \"POST\":\n        name = request.POST['name']\n        email = request.POST['email']\n        phone = request.POST['phone']\n        content = request.POST['content']\n        if len(name) < 2 or len(email) < 3 or len(phone) < 10 or len(content) < 4:\n            messages.error(request, \"Please fill the form correctly\")\n        else:\n            contact = Contact(name=name, email=email,\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def search(request):\n    query = request.GET['query']\n    if len(query) > 78:\n        allPosts = Post.objects.none()\n    else:\n        allPostsTitle = Post.objects.filter(title__icontains=query)\n        allPostsAuthor = Post.objects.filter(author__icontains=query)\n        allPostsContent = Post.objects.filter(content__icontains=query)\n        allPostsTags = Post.objects.filter(tag__tag_name__icontains=query)\n        print(allPostsTags)",
+        "detail": "home.views",
+        "documentation": {
+            "value": "\n```python\nfrom home.views import search\n```\n\n```python\n\n\n```\n\n```python\ndef search(request):\n    query = request.GET['query']\n    if len(query) > 78:\n        allPosts = Post.objects.none()\n    else:\n        allPostsTitle = Post.objects.filter(title__icontains=query)\n        allPostsAuthor = Post.objects.filter(author__icontains=query)\n        allPostsContent = Post.objects.filter(content__icontains=query)\n        allPostsTags = Post.objects.filter(tag__tag_name__icontains=query)\n        print(allPostsTags)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "handleSignUp",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def handleSignUp(request):\n    if request.method == \"POST\":\n        # Get the post parameters\n        username = request.POST['username']\n        email = request.POST['email']\n        fname = request.POST['fname']\n        lname = request.POST['lname']\n        pass1 = request.POST['pass1']\n        pass2 = request.POST['pass2']\n        # check for errorneous input",
+        "detail": "home.views",
+        "documentation": {
+            "value": "\n```python\nfrom home.views import handleSignUp\n```\n\n```python\n\n\n```\n\n```python\ndef handleSignUp(request):\n    if request.method == \"POST\":\n        # Get the post parameters\n        username = request.POST['username']\n        email = request.POST['email']\n        fname = request.POST['fname']\n        lname = request.POST['lname']\n        pass1 = request.POST['pass1']\n        pass2 = request.POST['pass2']\n        # check for errorneous input\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "handeLogin",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def handeLogin(request):\n    if request.method == \"POST\":\n        # Get the post parameters\n        loginusername = request.POST['loginusername']\n        loginpassword = request.POST['loginpassword']\n        user = authenticate(username=loginusername, password=loginpassword)\n        if user is not None:\n            login(request, user)\n            messages.success(request, \"Successfully Logged In\")\n            return redirect(\"home\")",
+        "detail": "home.views",
+        "documentation": {
+            "value": "\n```python\nfrom home.views import handeLogin\n```\n\n```python\n\n\n```\n\n```python\ndef handeLogin(request):\n    if request.method == \"POST\":\n        # Get the post parameters\n        loginusername = request.POST['loginusername']\n        loginpassword = request.POST['loginpassword']\n        user = authenticate(username=loginusername, password=loginpassword)\n        if user is not None:\n            login(request, user)\n            messages.success(request, \"Successfully Logged In\")\n            return redirect(\"home\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "handelLogout",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def handelLogout(request):\n    logout(request)\n    messages.success(request, \"Successfully logged out\")\n    return redirect('home')\ndef about(request):\n    return render(request, \"home/about.html\")",
+        "detail": "home.views",
+        "documentation": {
+            "value": "\n```python\nfrom home.views import handelLogout\n```\n\n```python\n\n\n```\n\n```python\ndef handelLogout(request):\n    logout(request)\n    messages.success(request, \"Successfully logged out\")\n    return redirect('home')\ndef about(request):\n    return render(request, \"home/about.html\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "about",
+        "kind": 2,
+        "importPath": "home.views",
+        "description": "home.views",
+        "peekOfCode": "def about(request):\n    return render(request, \"home/about.html\")",
+        "detail": "home.views",
+        "documentation": {
+            "value": "\n```python\nfrom home.views import about\n```\n\n```python\n\n\n```\n\n```python\ndef about(request):\n    return render(request, \"home/about.html\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "proj.asgi",
+        "description": "proj.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "proj.asgi",
+        "documentation": {
+            "value": "\n```python\nfrom proj.asgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_asgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '$&snr$dbxzoal*9ib+d6_fjavxc9_+qs8%9^y_#4g_b)^xg6^@'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import BASE_DIR\n```\n\n```python\n\n\n```\n\n```python\nBASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '$&snr$dbxzoal*9ib+d6_fjavxc9_+qs8%9^y_#4g_b)^xg6^@'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "SECRET_KEY = '$&snr$dbxzoal*9ib+d6_fjavxc9_+qs8%9^y_#4g_b)^xg6^@'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = '$&snr$dbxzoal*9ib+d6_fjavxc9_+qs8%9^y_#4g_b)^xg6^@'\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = 'bootstrap4'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import CRISPY_TEMPLATE_PACK\n```\n\n```python\n\n\n```\n\n```python\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import DEBUG\n```\n\n```python\n\n\n```\n\n```python\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'home.apps.HomeConfig',",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import ALLOWED_HOSTS\n```\n\n```python\n\n\n```\n\n```python\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'home.apps.HomeConfig',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'home.apps.HomeConfig',\n    'blog.apps.BlogConfig',\n    'django.contrib.humanize',",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import INSTALLED_APPS\n```\n\n```python\n\n\n```\n\n```python\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'home.apps.HomeConfig',\n    'blog.apps.BlogConfig',\n    'django.contrib.humanize',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'proj.urls'",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import MIDDLEWARE\n```\n\n```python\n\n\n```\n\n```python\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'proj.urls'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "ROOT_URLCONF = 'proj.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import ROOT_URLCONF\n```\n\n```python\n\n\n```\n\n```python\nROOT_URLCONF = 'proj.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import TEMPLATES\n```\n\n```python\n\n\n```\n\n```python\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'proj.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import WSGI_APPLICATION\n```\n\n```python\n\n\n```\n\n```python\nWSGI_APPLICATION = 'proj.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import DATABASES\n```\n\n```python\n\n\n```\n\n```python\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import AUTH_PASSWORD_VALIDATORS\n```\n\n```python\n\n\n```\n\n```python\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# APPEND_SLASH = False\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import LANGUAGE_CODE\n```\n\n```python\n\n\n```\n\n```python\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# APPEND_SLASH = False\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# APPEND_SLASH = False\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\nMESSAGE_TAGS = {",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import TIME_ZONE\n```\n\n```python\n\n\n```\n\n```python\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# APPEND_SLASH = False\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\nMESSAGE_TAGS = {\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# APPEND_SLASH = False\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger'",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import USE_I18N\n```\n\n```python\n\n\n```\n\n```python\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# APPEND_SLASH = False\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# APPEND_SLASH = False\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger'\n}",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import USE_L10N\n```\n\n```python\n\n\n```\n\n```python\nUSE_L10N = True\nUSE_TZ = True\n# APPEND_SLASH = False\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger'\n}\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "USE_TZ = True\n# APPEND_SLASH = False\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger'\n}",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import USE_TZ\n```\n\n```python\n\n\n```\n\n```python\nUSE_TZ = True\n# APPEND_SLASH = False\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger'\n}\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger'\n}",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import STATIC_URL\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger'\n}\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "STATICFILES_DIRS = ['static']\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger'\n}",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import STATICFILES_DIRS\n```\n\n```python\n\n\n```\n\n```python\nSTATICFILES_DIRS = ['static']\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger'\n}\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MESSAGE_TAGS",
+        "kind": 5,
+        "importPath": "proj.settings",
+        "description": "proj.settings",
+        "peekOfCode": "MESSAGE_TAGS = {\n    messages.ERROR: 'danger'\n}",
+        "detail": "proj.settings",
+        "documentation": {
+            "value": "\n```python\nfrom proj.settings import MESSAGE_TAGS\n```\n\n```python\n\n\n```\n\n```python\nMESSAGE_TAGS = {\n    messages.ERROR: 'danger'\n}\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "proj.urls",
+        "description": "proj.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('home.urls')),\n    path('blog/', include('blog.urls')),\n]",
+        "detail": "proj.urls",
+        "documentation": {
+            "value": "\n```python\nfrom proj.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('home.urls')),\n    path('blog/', include('blog.urls')),\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "proj.wsgi",
+        "description": "proj.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "proj.wsgi",
+        "documentation": {
+            "value": "\n```python\nfrom proj.wsgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_wsgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'proj.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {
+            "value": "\n```python\nfrom manage import main\n```\n\n```python\n\n\n```\n\n```python\ndef main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'proj.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
