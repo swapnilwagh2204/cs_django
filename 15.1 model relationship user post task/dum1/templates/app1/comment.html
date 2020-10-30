@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>comments</title>
+</head>
+
+<body>
+    <h1>this is comments page</h1>
+    <table>
+        <tr>
+            <th>post</th>
+            <th>user</th>
+            <th>commented_by</th>
+            <th>cr_date</th>
+        </tr>
+        <br>
+        {% for i in comments %}
+
+        <tr>
+            <td>{{i.post}}</td>
+            <td>{{i.user}}</td>
+            <td>{{i.commented_by}}</td>
+            <td>{{i.cr_date}}</td>
+        </tr>
+
+        {% endfor %}
+    </table>
+</body>
+
+</html>

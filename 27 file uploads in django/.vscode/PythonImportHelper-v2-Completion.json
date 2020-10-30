@@ -1,0 +1,918 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {
+            "value": "\n```python\nimport django.apps\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BaseBackend",
+        "importPath": "django.contrib.auth.backends",
+        "description": "django.contrib.auth.backends",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.backends",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth.backends\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {
+            "value": "\n```python\nimport django.test\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "views",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {
+            "value": "\n```python\nimport django\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "UpdateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DeleteView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {
+            "value": "\n```python\nimport os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.asgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {
+            "value": "\n```python\nimport pathlib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {
+            "value": "\n```python\nimport django.conf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {
+            "value": "\n```python\nimport django.conf.urls.static\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.wsgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {
+            "value": "\n```python\nimport sys\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "classbaseview.app1.migrations.0001_initial",
+        "description": "classbaseview.app1.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Student',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('rollno', models.IntegerField()),",
+        "detail": "classbaseview.app1.migrations.0001_initial",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Student',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('rollno', models.IntegerField()),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "classbaseview.app1.migrations.0002_employee",
+        "description": "classbaseview.app1.migrations.0002_employee",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('app1', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Employee',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('username', models.CharField(max_length=40)),",
+        "detail": "classbaseview.app1.migrations.0002_employee",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.migrations.0002_employee import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('app1', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Employee',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('username', models.CharField(max_length=40)),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "classbaseview.app1.migrations.0003_employee_last_login",
+        "description": "classbaseview.app1.migrations.0003_employee_last_login",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('app1', '0002_employee'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='employee',\n            name='last_login',\n            field=models.DateTimeField(blank=True, null=True),\n        ),",
+        "detail": "classbaseview.app1.migrations.0003_employee_last_login",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.migrations.0003_employee_last_login import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('app1', '0002_employee'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='employee',\n            name='last_login',\n            field=models.DateTimeField(blank=True, null=True),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "classbaseview.app1.migrations.0004_post",
+        "description": "classbaseview.app1.migrations.0004_post",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('app1', '0003_employee_last_login'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Post',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=30)),",
+        "detail": "classbaseview.app1.migrations.0004_post",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.migrations.0004_post import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('app1', '0003_employee_last_login'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Post',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=30)),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "StudentAdmin",
+        "kind": 6,
+        "importPath": "classbaseview.app1.admin",
+        "description": "classbaseview.app1.admin",
+        "peekOfCode": "class StudentAdmin(admin.ModelAdmin):\n    list_display = ['rollno','name','marks']\nadmin.site.register(Student,StudentAdmin)\nclass EmployeeAdmin(admin.ModelAdmin):\n    list_display = ['username','password','name']\nadmin.site.register(Employee,EmployeeAdmin)\nclass PostAdmin(admin.ModelAdmin):\n    list_display = ['title','cover']\nadmin.site.register(Post,PostAdmin)",
+        "detail": "classbaseview.app1.admin",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.admin import StudentAdmin\n```\n\n```python\n\n\n```\n\n```python\nclass StudentAdmin(admin.ModelAdmin):\n    list_display = ['rollno','name','marks']\nadmin.site.register(Student,StudentAdmin)\nclass EmployeeAdmin(admin.ModelAdmin):\n    list_display = ['username','password','name']\nadmin.site.register(Employee,EmployeeAdmin)\nclass PostAdmin(admin.ModelAdmin):\n    list_display = ['title','cover']\nadmin.site.register(Post,PostAdmin)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "EmployeeAdmin",
+        "kind": 6,
+        "importPath": "classbaseview.app1.admin",
+        "description": "classbaseview.app1.admin",
+        "peekOfCode": "class EmployeeAdmin(admin.ModelAdmin):\n    list_display = ['username','password','name']\nadmin.site.register(Employee,EmployeeAdmin)\nclass PostAdmin(admin.ModelAdmin):\n    list_display = ['title','cover']\nadmin.site.register(Post,PostAdmin)",
+        "detail": "classbaseview.app1.admin",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.admin import EmployeeAdmin\n```\n\n```python\n\n\n```\n\n```python\nclass EmployeeAdmin(admin.ModelAdmin):\n    list_display = ['username','password','name']\nadmin.site.register(Employee,EmployeeAdmin)\nclass PostAdmin(admin.ModelAdmin):\n    list_display = ['title','cover']\nadmin.site.register(Post,PostAdmin)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PostAdmin",
+        "kind": 6,
+        "importPath": "classbaseview.app1.admin",
+        "description": "classbaseview.app1.admin",
+        "peekOfCode": "class PostAdmin(admin.ModelAdmin):\n    list_display = ['title','cover']\nadmin.site.register(Post,PostAdmin)",
+        "detail": "classbaseview.app1.admin",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.admin import PostAdmin\n```\n\n```python\n\n\n```\n\n```python\nclass PostAdmin(admin.ModelAdmin):\n    list_display = ['title','cover']\nadmin.site.register(Post,PostAdmin)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "App1Config",
+        "kind": 6,
+        "importPath": "classbaseview.app1.apps",
+        "description": "classbaseview.app1.apps",
+        "peekOfCode": "class App1Config(AppConfig):\n    name = 'app1'",
+        "detail": "classbaseview.app1.apps",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.apps import App1Config\n```\n\n```python\n\n\n```\n\n```python\nclass App1Config(AppConfig):\n    name = 'app1'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "EmployeeBackend",
+        "kind": 6,
+        "importPath": "classbaseview.app1.backends",
+        "description": "classbaseview.app1.backends",
+        "peekOfCode": "class EmployeeBackend(BaseBackend):\n    def authenticate(self, request, username=None,password = None):\n        try:\n             emp = Employee.objects.get(username = username, password = password)\n             return emp\n        except Employee.DoesnotExist:\n                return None",
+        "detail": "classbaseview.app1.backends",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.backends import EmployeeBackend\n```\n\n```python\n\n\n```\n\n```python\nclass EmployeeBackend(BaseBackend):\n    def authenticate(self, request, username=None,password = None):\n        try:\n             emp = Employee.objects.get(username = username, password = password)\n             return emp\n        except Employee.DoesnotExist:\n                return None\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "classbaseview.app1.models",
+        "description": "classbaseview.app1.models",
+        "peekOfCode": "class Student(models.Model):\n    rollno = models.IntegerField()\n    name = models.CharField(max_length=30)\n    marks = models.IntegerField()\n    def __str__(self):\n        return f'rollno:{self.rollno} name:{self.name}'\nclass Employee(models.Model):\n    username=models.CharField(max_length=40)\n    password=models.CharField(max_length=40)\n    name=models.CharField(max_length=20)",
+        "detail": "classbaseview.app1.models",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.models import Student\n```\n\n```python\n\n\n```\n\n```python\nclass Student(models.Model):\n    rollno = models.IntegerField()\n    name = models.CharField(max_length=30)\n    marks = models.IntegerField()\n    def __str__(self):\n        return f'rollno:{self.rollno} name:{self.name}'\nclass Employee(models.Model):\n    username=models.CharField(max_length=40)\n    password=models.CharField(max_length=40)\n    name=models.CharField(max_length=20)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Employee",
+        "kind": 6,
+        "importPath": "classbaseview.app1.models",
+        "description": "classbaseview.app1.models",
+        "peekOfCode": "class Employee(models.Model):\n    username=models.CharField(max_length=40)\n    password=models.CharField(max_length=40)\n    name=models.CharField(max_length=20)\n    last_login=models.DateTimeField(blank=True,null=True)\n    def __str__(self):\n        return f'name:{self.name}'\nclass Post(models.Model):\n    title = models.CharField(max_length=30)\n    cover = models.ImageField(upload_to='images')",
+        "detail": "classbaseview.app1.models",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.models import Employee\n```\n\n```python\n\n\n```\n\n```python\nclass Employee(models.Model):\n    username=models.CharField(max_length=40)\n    password=models.CharField(max_length=40)\n    name=models.CharField(max_length=20)\n    last_login=models.DateTimeField(blank=True,null=True)\n    def __str__(self):\n        return f'name:{self.name}'\nclass Post(models.Model):\n    title = models.CharField(max_length=30)\n    cover = models.ImageField(upload_to='images')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "classbaseview.app1.models",
+        "description": "classbaseview.app1.models",
+        "peekOfCode": "class Post(models.Model):\n    title = models.CharField(max_length=30)\n    cover = models.ImageField(upload_to='images')",
+        "detail": "classbaseview.app1.models",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.models import Post\n```\n\n```python\n\n\n```\n\n```python\nclass Post(models.Model):\n    title = models.CharField(max_length=30)\n    cover = models.ImageField(upload_to='images')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "classbaseview.app1.urls",
+        "description": "classbaseview.app1.urls",
+        "peekOfCode": "urlpatterns = [\n    path('home/',homeview.as_view(),name = 'home'),\n     path('update/<int:pk>/',updateview.as_view(),name = 'update'),\n    path('delete/<int:pk>/',deleteview.as_view(),name = 'delete'),\n    path('login/',loginview.as_view(),name = 'log'),\n    path('ae/',Emplist.as_view(),name = 'all Employs'),\n    path('create/',Empcreate.as_view(),name = 'create'),\n    path('updte/<int:pk>/',Empupdate.as_view(),name = 'updte'),\n    path('delte/<int:pk>/',Empdelete.as_view(),name = 'delte'),\n    path('post',Postimg.as_view(),name = 'imgpost'),",
+        "detail": "classbaseview.app1.urls",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('home/',homeview.as_view(),name = 'home'),\n     path('update/<int:pk>/',updateview.as_view(),name = 'update'),\n    path('delete/<int:pk>/',deleteview.as_view(),name = 'delete'),\n    path('login/',loginview.as_view(),name = 'log'),\n    path('ae/',Emplist.as_view(),name = 'all Employs'),\n    path('create/',Empcreate.as_view(),name = 'create'),\n    path('updte/<int:pk>/',Empupdate.as_view(),name = 'updte'),\n    path('delte/<int:pk>/',Empdelete.as_view(),name = 'delte'),\n    path('post',Postimg.as_view(),name = 'imgpost'),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "homeview",
+        "kind": 6,
+        "importPath": "classbaseview.app1.views",
+        "description": "classbaseview.app1.views",
+        "peekOfCode": "class homeview(views.View):\n    template_name = 'app1/home.html'\n    students = Student.objects.all()\n    context = {'students':students}\n    def get(self,request):\n        students = Student.objects.all()\n        context = {'students': students}\n        return render(request,self.template_name,context)\n    def post(self,request):\n        r=request.POST['rollno']",
+        "detail": "classbaseview.app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.views import homeview\n```\n\n```python\n\n\n```\n\n```python\nclass homeview(views.View):\n    template_name = 'app1/home.html'\n    students = Student.objects.all()\n    context = {'students':students}\n    def get(self,request):\n        students = Student.objects.all()\n        context = {'students': students}\n        return render(request,self.template_name,context)\n    def post(self,request):\n        r=request.POST['rollno']\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "deleteview",
+        "kind": 6,
+        "importPath": "classbaseview.app1.views",
+        "description": "classbaseview.app1.views",
+        "peekOfCode": "class deleteview(views.View):\n    def get(self,request,**kwargs):\n        pk=kwargs['pk']\n        sobj=Student.objects.get(pk=pk)\n        sobj.delete()\n        return redirect('home')\n        # students=Student.objects.all()\n        # context  = {'students':students}\n        # # return render(request,'app1/home.html',context)\nclass updateview(views.View):",
+        "detail": "classbaseview.app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.views import deleteview\n```\n\n```python\n\n\n```\n\n```python\nclass deleteview(views.View):\n    def get(self,request,**kwargs):\n        pk=kwargs['pk']\n        sobj=Student.objects.get(pk=pk)\n        sobj.delete()\n        return redirect('home')\n        # students=Student.objects.all()\n        # context  = {'students':students}\n        # # return render(request,'app1/home.html',context)\nclass updateview(views.View):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "updateview",
+        "kind": 6,
+        "importPath": "classbaseview.app1.views",
+        "description": "classbaseview.app1.views",
+        "peekOfCode": "class updateview(views.View):\n    def get(self,request,**kwargs):\n        pk=kwargs['pk']\n        obj=Student.objects.get(pk=pk)\n        context = {'obj':obj}\n        return render(request,'app1/update.html',context)\n    def post(self,request,**kwargs):\n        pk=kwargs['pk']\n        obj=Student.objects.get(pk=pk)\n        obj.rollno=request.POST['rollno']",
+        "detail": "classbaseview.app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.views import updateview\n```\n\n```python\n\n\n```\n\n```python\nclass updateview(views.View):\n    def get(self,request,**kwargs):\n        pk=kwargs['pk']\n        obj=Student.objects.get(pk=pk)\n        context = {'obj':obj}\n        return render(request,'app1/update.html',context)\n    def post(self,request,**kwargs):\n        pk=kwargs['pk']\n        obj=Student.objects.get(pk=pk)\n        obj.rollno=request.POST['rollno']\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "loginview",
+        "kind": 6,
+        "importPath": "classbaseview.app1.views",
+        "description": "classbaseview.app1.views",
+        "peekOfCode": "class loginview(views.View):\n    def get(self,request):\n        return render(request,'app1/login.html')\n    def post(self,request):\n        user=request.POST['username']\n        passd=request.POST['password']\n        user=authenticate(username=user,password=passd)\n        print(user)\n        if user:\n            login(request,user)",
+        "detail": "classbaseview.app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.views import loginview\n```\n\n```python\n\n\n```\n\n```python\nclass loginview(views.View):\n    def get(self,request):\n        return render(request,'app1/login.html')\n    def post(self,request):\n        user=request.POST['username']\n        passd=request.POST['password']\n        user=authenticate(username=user,password=passd)\n        print(user)\n        if user:\n            login(request,user)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Emplist",
+        "kind": 6,
+        "importPath": "classbaseview.app1.views",
+        "description": "classbaseview.app1.views",
+        "peekOfCode": "class Emplist(ListView):\n    # model = Employee\n    queryset = Employee.objects.all()\n# Get context data is used to set context .\n    def get_context_data(self, *, object_list=None, **kwargs):\n        context = super().get_context_data()\n        context['data'] = '***********| Employee Model Data |************'\n        return context\n# get queryset is used to get what data we want to send to html page.\n    # i.e. filtering/ordering data .",
+        "detail": "classbaseview.app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.views import Emplist\n```\n\n```python\n\n\n```\n\n```python\nclass Emplist(ListView):\n    # model = Employee\n    queryset = Employee.objects.all()\n# Get context data is used to set context .\n    def get_context_data(self, *, object_list=None, **kwargs):\n        context = super().get_context_data()\n        context['data'] = '***********| Employee Model Data |************'\n        return context\n# get queryset is used to get what data we want to send to html page.\n    # i.e. filtering/ordering data .\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Empcreate",
+        "kind": 6,
+        "importPath": "classbaseview.app1.views",
+        "description": "classbaseview.app1.views",
+        "peekOfCode": "class Empcreate(CreateView) :\n    model = Employee\n    fields = ['name','username','password']\n    success_url = '/ap/ae/'\nclass Empupdate(UpdateView) :\n    model = Employee\n    fields = ['name','username','password']\n    success_url = '/ap/ae/'\nclass Empdelete(DeleteView) :",
+        "detail": "classbaseview.app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.views import Empcreate\n```\n\n```python\n\n\n```\n\n```python\nclass Empcreate(CreateView) :\n    model = Employee\n    fields = ['name','username','password']\n    success_url = '/ap/ae/'\nclass Empupdate(UpdateView) :\n    model = Employee\n    fields = ['name','username','password']\n    success_url = '/ap/ae/'\nclass Empdelete(DeleteView) :\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Empupdate",
+        "kind": 6,
+        "importPath": "classbaseview.app1.views",
+        "description": "classbaseview.app1.views",
+        "peekOfCode": "class Empupdate(UpdateView) :\n    model = Employee\n    fields = ['name','username','password']\n    success_url = '/ap/ae/'\nclass Empdelete(DeleteView) :\n    model = Employee\n    template_name = 'app1/employee_delete.html'\n    success_url = '/ap/ae/'\nclass Postimg(ListView) :",
+        "detail": "classbaseview.app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.views import Empupdate\n```\n\n```python\n\n\n```\n\n```python\nclass Empupdate(UpdateView) :\n    model = Employee\n    fields = ['name','username','password']\n    success_url = '/ap/ae/'\nclass Empdelete(DeleteView) :\n    model = Employee\n    template_name = 'app1/employee_delete.html'\n    success_url = '/ap/ae/'\nclass Postimg(ListView) :\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Empdelete",
+        "kind": 6,
+        "importPath": "classbaseview.app1.views",
+        "description": "classbaseview.app1.views",
+        "peekOfCode": "class Empdelete(DeleteView) :\n    model = Employee\n    template_name = 'app1/employee_delete.html'\n    success_url = '/ap/ae/'\nclass Postimg(ListView) :\n    model = Post\n    template_name = 'app1/post.html'",
+        "detail": "classbaseview.app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.views import Empdelete\n```\n\n```python\n\n\n```\n\n```python\nclass Empdelete(DeleteView) :\n    model = Employee\n    template_name = 'app1/employee_delete.html'\n    success_url = '/ap/ae/'\nclass Postimg(ListView) :\n    model = Post\n    template_name = 'app1/post.html'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Postimg",
+        "kind": 6,
+        "importPath": "classbaseview.app1.views",
+        "description": "classbaseview.app1.views",
+        "peekOfCode": "class Postimg(ListView) :\n    model = Post\n    template_name = 'app1/post.html'",
+        "detail": "classbaseview.app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.app1.views import Postimg\n```\n\n```python\n\n\n```\n\n```python\nclass Postimg(ListView) :\n    model = Post\n    template_name = 'app1/post.html'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.asgi",
+        "description": "classbaseview.classbaseview.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "classbaseview.classbaseview.asgi",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.asgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_asgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'ho)0ts^*sd$hgsdi4@^^#mx=gsbnmsvl14fh63lr$@4^oe5ev#'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import BASE_DIR\n```\n\n```python\n\n\n```\n\n```python\nBASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'ho)0ts^*sd$hgsdi4@^^#mx=gsbnmsvl14fh63lr$@4^oe5ev#'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "SECRET_KEY = 'ho)0ts^*sd$hgsdi4@^^#mx=gsbnmsvl14fh63lr$@4^oe5ev#'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = 'ho)0ts^*sd$hgsdi4@^^#mx=gsbnmsvl14fh63lr$@4^oe5ev#'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import DEBUG\n```\n\n```python\n\n\n```\n\n```python\nDEBUG = True\nALLOWED_HOSTS = []\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import ALLOWED_HOSTS\n```\n\n```python\n\n\n```\n\n```python\nALLOWED_HOSTS = []\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import MEDIA_URL\n```\n\n```python\n\n\n```\n\n```python\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1',",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import MEDIA_ROOT\n```\n\n```python\n\n\n```\n\n```python\nMEDIA_ROOT = os.path.join(BASE_DIR,'media')\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1',\n]\nMIDDLEWARE = [",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import INSTALLED_APPS\n```\n\n```python\n\n\n```\n\n```python\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1',\n]\nMIDDLEWARE = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'classbaseview.urls'",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import MIDDLEWARE\n```\n\n```python\n\n\n```\n\n```python\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'classbaseview.urls'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "ROOT_URLCONF = 'classbaseview.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import ROOT_URLCONF\n```\n\n```python\n\n\n```\n\n```python\nROOT_URLCONF = 'classbaseview.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import TEMPLATES\n```\n\n```python\n\n\n```\n\n```python\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'classbaseview.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nAUTHENTICATION_BACKENDS =[",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import WSGI_APPLICATION\n```\n\n```python\n\n\n```\n\n```python\nWSGI_APPLICATION = 'classbaseview.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nAUTHENTICATION_BACKENDS =[\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nAUTHENTICATION_BACKENDS =[\n    'django.contrib.auth.backends.ModelBackend',\n    'app1.backends.EmployeeBackend',\n]",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import DATABASES\n```\n\n```python\n\n\n```\n\n```python\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nAUTHENTICATION_BACKENDS =[\n    'django.contrib.auth.backends.ModelBackend',\n    'app1.backends.EmployeeBackend',\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import AUTH_PASSWORD_VALIDATORS\n```\n\n```python\n\n\n```\n\n```python\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import LANGUAGE_CODE\n```\n\n```python\n\n\n```\n\n```python\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "TIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import TIME_ZONE\n```\n\n```python\n\n\n```\n\n```python\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import USE_I18N\n```\n\n```python\n\n\n```\n\n```python\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import USE_L10N\n```\n\n```python\n\n\n```\n\n```python\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import USE_TZ\n```\n\n```python\n\n\n```\n\n```python\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.settings",
+        "description": "classbaseview.classbaseview.settings",
+        "peekOfCode": "STATIC_URL = '/static/'",
+        "detail": "classbaseview.classbaseview.settings",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.settings import STATIC_URL\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.urls",
+        "description": "classbaseview.classbaseview.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('ap/', include('app1.urls')),\n]\nif settings.DEBUG: # new\n    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "classbaseview.classbaseview.urls",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('ap/', include('app1.urls')),\n]\nif settings.DEBUG: # new\n    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "classbaseview.classbaseview.wsgi",
+        "description": "classbaseview.classbaseview.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "classbaseview.classbaseview.wsgi",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.classbaseview.wsgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_wsgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "classbaseview.manage",
+        "description": "classbaseview.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'classbaseview.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "classbaseview.manage",
+        "documentation": {
+            "value": "\n```python\nfrom classbaseview.manage import main\n```\n\n```python\n\n\n```\n\n```python\ndef main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'classbaseview.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]

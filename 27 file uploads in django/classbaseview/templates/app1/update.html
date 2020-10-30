@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>update</title>
+</head>
+<body>
+<form action="" method="post">
+        {% csrf_token %}
+    rollno:
+    <input type="text" value="{{obj.rollno}}" name="rollno"><br><br>
+    name:
+    <input type="text" value="{{obj.name}}" name="name"><br><br>
+    marks:
+    <input type="text" value="{{obj.marks}}" name="marks"><br><br>
+    <input type="submit" value="update student">
+
+</form>
+
+</body>
+</html>

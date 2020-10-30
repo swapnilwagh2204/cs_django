@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>home</title>
+</head>
+<body>
+{{data}}
+
+
+<form action="" method="post">
+        {% csrf_token %}
+    rollno:
+    <input type="text" name="rollno"><br><br>
+    name:
+    <input type="text" name="name"><br><br>
+    marks:
+    <input type="text" name="marks"><br><br>
+    <input type="submit" value="add student">
+
+</form>
+<br><br>
+{% if students %}
+<table border="2">
+    <tr>
+        <th>rollno</th>
+        <th>name</th>
+        <th>marks</th>
+        <th>delete op</th>
+        <th>update op</th>
+    </tr>
+    <tr>
+        {% for stud in students %}
+        <td>{{stud.rollno}}</td>
+        <td>{{stud.name}}</td>
+        <td>{{stud.marks}}</td>
+        <td><a href="{% url 'delete' stud.id %}">delete</a></td>
+        <td><a href="{% url 'update' stud.id %}">update</a></td>
+
+    </tr>
+    {% endfor %}
+</table>
+{% endif %}
+</body>
+</html>

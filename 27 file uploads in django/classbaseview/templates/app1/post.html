@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Post</title>
+    <style>
+
+    </style>
+</head>
+<body>
+
+{% for post in object_list %}
+
+<div class="post">
+    {{post.title}}
+<img src="{{post.cover.url}}" alt="{{post.title}}"style="width:200px;">
+</div>
+
+
+{% endfor %}
+</body>
+</html>

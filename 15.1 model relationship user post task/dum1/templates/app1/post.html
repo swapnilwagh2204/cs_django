@@ -1,25 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>home</title>
-  </head>
-  <body border 1>
-    <h1>hello this is home page</h1>
-    <table>
-      <tr>
-        <th>content</th>
-        <th>created_by</th>
-        <th>cr_date</th>
-      </tr>
-      {% for i in postt %}
-          <tr>
-            <td>{{i.content}}</td>
-            <td>{{i.created_by}}</td>
-            <td>{{i.cr_date}}</td>
-        </tr>
-    {% endfor %} 
-    </table>
-  </body>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>home</title>
+</head>
+
+<body border='1'>
+  <h1>hello this is home page</h1>
+  <table>
+    <tr>
+      <th>overview</th>
+      <th>content</th>
+      <th>created_by</th>
+      <th>cr_date</th>
+    </tr>
+    {% for i in postt %}
+    <tr>
+      <td>{{i.overview}}</td>
+      <td>{{i.content}}</td>
+      <td>{{i.created_by}}</td>
+      <td>{{i.cr_date}}</td>
+    </tr>
+    {% endfor %}
+  </table>
+</body>
+
 </html>

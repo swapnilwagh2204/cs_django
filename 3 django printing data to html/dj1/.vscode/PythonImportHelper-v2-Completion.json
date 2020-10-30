@@ -1,0 +1,516 @@
+[
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {
+            "value": "\n```python\nimport django.apps\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {
+            "value": "\n```python\nimport django.test\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "request",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {
+            "value": "\n```python\nimport django.http\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {
+            "value": "\n```python\nimport django.http\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {
+            "value": "\n```python\nimport os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.asgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {
+            "value": "\n```python\nimport pathlib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.wsgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {
+            "value": "\n```python\nimport sys\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "App1Config",
+        "kind": 6,
+        "importPath": "app1.apps",
+        "description": "app1.apps",
+        "peekOfCode": "class App1Config(AppConfig):\n    name = 'app1'",
+        "detail": "app1.apps",
+        "documentation": {
+            "value": "\n```python\nfrom app1.apps import App1Config\n```\n\n```python\n\n\n```\n\n```python\nclass App1Config(AppConfig):\n    name = 'app1'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "student",
+        "kind": 6,
+        "importPath": "app1.views",
+        "description": "app1.views",
+        "peekOfCode": "class student:\n    def __init__(self,rn,nm,marks):\n        self.rn = rn\n        self.nm = nm\n        self.marks = marks\n    def __str__(self):\n        return \"{},{},{}\".format(self.rn,self.nm,self.marks)\ns1=student(1,'radha',26)\ns2=student(2,'priya',29)\ns3=student(3,'jay',30)",
+        "detail": "app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom app1.views import student\n```\n\n```python\n\n\n```\n\n```python\nclass student:\n    def __init__(self,rn,nm,marks):\n        self.rn = rn\n        self.nm = nm\n        self.marks = marks\n    def __str__(self):\n        return \"{},{},{}\".format(self.rn,self.nm,self.marks)\ns1=student(1,'radha',26)\ns2=student(2,'priya',29)\ns3=student(3,'jay',30)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ls",
+        "kind": 2,
+        "importPath": "app1.views",
+        "description": "app1.views",
+        "peekOfCode": "def ls(req1):\n    context={'s':[s1,s2,s3],'ele':[[1,'radha',260],[2,'priya',29],[3,'jay',30]],'val':[1,2,3]}\n    request=req1\n    template_name='app1/index.html'\n    return render(request,template_name,context)\ndef dct(req2):\n    context ={'student_date':{'s1':{'rn':1,'nm':'radha','marks':26},'s2':{'rn':2,'nm':'priya','marks':29,'s3':{'rn':3,'nm':'jay','marks':30}}}}\n    request=req2\n    template_name='app1/index.html'\n    return render(request, template_name,context)",
+        "detail": "app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom app1.views import ls\n```\n\n```python\n\n\n```\n\n```python\ndef ls(req1):\n    context={'s':[s1,s2,s3],'ele':[[1,'radha',260],[2,'priya',29],[3,'jay',30]],'val':[1,2,3]}\n    request=req1\n    template_name='app1/index.html'\n    return render(request,template_name,context)\ndef dct(req2):\n    context ={'student_date':{'s1':{'rn':1,'nm':'radha','marks':26},'s2':{'rn':2,'nm':'priya','marks':29,'s3':{'rn':3,'nm':'jay','marks':30}}}}\n    request=req2\n    template_name='app1/index.html'\n    return render(request, template_name,context)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dct",
+        "kind": 2,
+        "importPath": "app1.views",
+        "description": "app1.views",
+        "peekOfCode": "def dct(req2):\n    context ={'student_date':{'s1':{'rn':1,'nm':'radha','marks':26},'s2':{'rn':2,'nm':'priya','marks':29,'s3':{'rn':3,'nm':'jay','marks':30}}}}\n    request=req2\n    template_name='app1/index.html'\n    return render(request, template_name,context)\ndef st(req3):\n    context={'s':[s1,s2,s3],'ele':{frozenset({1,'radha',26}),frozenset({2,'priya',29,}),frozenset({3,'jay',30})}}\n    request=req3\n    template_name=\"app1/index.html\"\n    return render(request, template_name, context) ",
+        "detail": "app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom app1.views import dct\n```\n\n```python\n\n\n```\n\n```python\ndef dct(req2):\n    context ={'student_date':{'s1':{'rn':1,'nm':'radha','marks':26},'s2':{'rn':2,'nm':'priya','marks':29,'s3':{'rn':3,'nm':'jay','marks':30}}}}\n    request=req2\n    template_name='app1/index.html'\n    return render(request, template_name,context)\ndef st(req3):\n    context={'s':[s1,s2,s3],'ele':{frozenset({1,'radha',26}),frozenset({2,'priya',29,}),frozenset({3,'jay',30})}}\n    request=req3\n    template_name=\"app1/index.html\"\n    return render(request, template_name, context) \n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "st",
+        "kind": 2,
+        "importPath": "app1.views",
+        "description": "app1.views",
+        "peekOfCode": "def st(req3):\n    context={'s':[s1,s2,s3],'ele':{frozenset({1,'radha',26}),frozenset({2,'priya',29,}),frozenset({3,'jay',30})}}\n    request=req3\n    template_name=\"app1/index.html\"\n    return render(request, template_name, context) \ndef lod(req4):\n    lsd =[{'rn':1,'nm':'radha','marks':26},{'rn':2,'nm':'priya','marks':29},{'rn':3,'nm':'jay','marks':30}]\n    request=req4\n    template_name=\"app1/index.html\"\n    return render(request, template_name,{'ld':lsd}) ",
+        "detail": "app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom app1.views import st\n```\n\n```python\n\n\n```\n\n```python\ndef st(req3):\n    context={'s':[s1,s2,s3],'ele':{frozenset({1,'radha',26}),frozenset({2,'priya',29,}),frozenset({3,'jay',30})}}\n    request=req3\n    template_name=\"app1/index.html\"\n    return render(request, template_name, context) \ndef lod(req4):\n    lsd =[{'rn':1,'nm':'radha','marks':26},{'rn':2,'nm':'priya','marks':29},{'rn':3,'nm':'jay','marks':30}]\n    request=req4\n    template_name=\"app1/index.html\"\n    return render(request, template_name,{'ld':lsd}) \n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "lod",
+        "kind": 2,
+        "importPath": "app1.views",
+        "description": "app1.views",
+        "peekOfCode": "def lod(req4):\n    lsd =[{'rn':1,'nm':'radha','marks':26},{'rn':2,'nm':'priya','marks':29},{'rn':3,'nm':'jay','marks':30}]\n    request=req4\n    template_name=\"app1/index.html\"\n    return render(request, template_name,{'ld':lsd}) \ndef dol(req5):\n    context={[1,'radha',260],[2,'priya',29],[3,'jay',30]}\n    request=req5\n    template_name='app1/index.html'\n    return render(request,template_name,context)",
+        "detail": "app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom app1.views import lod\n```\n\n```python\n\n\n```\n\n```python\ndef lod(req4):\n    lsd =[{'rn':1,'nm':'radha','marks':26},{'rn':2,'nm':'priya','marks':29},{'rn':3,'nm':'jay','marks':30}]\n    request=req4\n    template_name=\"app1/index.html\"\n    return render(request, template_name,{'ld':lsd}) \ndef dol(req5):\n    context={[1,'radha',260],[2,'priya',29],[3,'jay',30]}\n    request=req5\n    template_name='app1/index.html'\n    return render(request,template_name,context)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dol",
+        "kind": 2,
+        "importPath": "app1.views",
+        "description": "app1.views",
+        "peekOfCode": "def dol(req5):\n    context={[1,'radha',260],[2,'priya',29],[3,'jay',30]}\n    request=req5\n    template_name='app1/index.html'\n    return render(request,template_name,context)",
+        "detail": "app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom app1.views import dol\n```\n\n```python\n\n\n```\n\n```python\ndef dol(req5):\n    context={[1,'radha',260],[2,'priya',29],[3,'jay',30]}\n    request=req5\n    template_name='app1/index.html'\n    return render(request,template_name,context)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "dj1.asgi",
+        "description": "dj1.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "dj1.asgi",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.asgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_asgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '!-a$#a8gczevhmc1i6@=fk^_2@&q_8y)a=39k#47xjr@qx)m=('\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import BASE_DIR\n```\n\n```python\n\n\n```\n\n```python\nBASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '!-a$#a8gczevhmc1i6@=fk^_2@&q_8y)a=39k#47xjr@qx)m=('\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "SECRET_KEY = '!-a$#a8gczevhmc1i6@=fk^_2@&q_8y)a=39k#47xjr@qx)m=('\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = '!-a$#a8gczevhmc1i6@=fk^_2@&q_8y)a=39k#47xjr@qx)m=('\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import DEBUG\n```\n\n```python\n\n\n```\n\n```python\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1'",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import ALLOWED_HOSTS\n```\n\n```python\n\n\n```\n\n```python\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1'\n]\nMIDDLEWARE = [",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import INSTALLED_APPS\n```\n\n```python\n\n\n```\n\n```python\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1'\n]\nMIDDLEWARE = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'dj1.urls'",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import MIDDLEWARE\n```\n\n```python\n\n\n```\n\n```python\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'dj1.urls'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "ROOT_URLCONF = 'dj1.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import ROOT_URLCONF\n```\n\n```python\n\n\n```\n\n```python\nROOT_URLCONF = 'dj1.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import TEMPLATES\n```\n\n```python\n\n\n```\n\n```python\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'dj1.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import WSGI_APPLICATION\n```\n\n```python\n\n\n```\n\n```python\nWSGI_APPLICATION = 'dj1.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import DATABASES\n```\n\n```python\n\n\n```\n\n```python\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import AUTH_PASSWORD_VALIDATORS\n```\n\n```python\n\n\n```\n\n```python\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import LANGUAGE_CODE\n```\n\n```python\n\n\n```\n\n```python\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import TIME_ZONE\n```\n\n```python\n\n\n```\n\n```python\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import USE_I18N\n```\n\n```python\n\n\n```\n\n```python\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import USE_L10N\n```\n\n```python\n\n\n```\n\n```python\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import USE_TZ\n```\n\n```python\n\n\n```\n\n```python\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "dj1.settings",
+        "description": "dj1.settings",
+        "peekOfCode": "STATIC_URL = '/static/'",
+        "detail": "dj1.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.settings import STATIC_URL\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "dj1.urls",
+        "description": "dj1.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"app1/\",include(\"app1.urls\")),\n    path('admin/', admin.site.urls),\n]",
+        "detail": "dj1.urls",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path(\"app1/\",include(\"app1.urls\")),\n    path('admin/', admin.site.urls),\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "dj1.wsgi",
+        "description": "dj1.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "dj1.wsgi",
+        "documentation": {
+            "value": "\n```python\nfrom dj1.wsgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_wsgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'dj1.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {
+            "value": "\n```python\nfrom manage import main\n```\n\n```python\n\n\n```\n\n```python\ndef main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'dj1.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
