@@ -15,9 +15,10 @@ def registerview(request):
         a = request.POST['adr']
         g = request.POST['Gender']
         if u and p and fn and e and a and g:
-            u1 = Users(Username=u, Password=p, Fullname=fn,Email=e,Address=a,Gender=g)
+            u1 = Users(Username=u, Password=p, Fullname=fn,
+                       Email=e, Address=a, Gender=g)
             u1.save()
-            return render(request,"app1/login.html")
+            return render(request, "app1/login.html")
         return render(request, "app1/register.html")
 
 
@@ -29,9 +30,7 @@ def loginview(request):
         u = request.POST['un']
         p = request.POST['pw']
         if Users.objects.get(Username=u) and Users.objects.get(Password=p):
-            user= Users.objects.all()
+            user = Users.objects.all()
             context = {"Users": user}
-            return render(request,"app1/display.html",context)
-        return render(request,"app1/login.html")
-
-
+            return render(request, "app1/display.html", context)
+        return render(request, "app1/login.html")

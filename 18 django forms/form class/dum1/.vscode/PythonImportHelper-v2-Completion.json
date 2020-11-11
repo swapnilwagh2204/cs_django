@@ -1,0 +1,691 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {
+            "value": "\n```python\nimport django.apps\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {
+            "value": "\n```python\nimport django\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {
+            "value": "\n```python\nimport django.test\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {
+            "value": "\n```python\nimport os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.asgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {
+            "value": "\n```python\nimport pathlib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.wsgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {
+            "value": "\n```python\nimport sys\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "app1.migrations.0001_initial",
+        "description": "app1.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='student',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),",
+        "detail": "app1.migrations.0001_initial",
+        "documentation": {
+            "value": "\n```python\nfrom app1.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='student',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "app1.migrations.0002_postt",
+        "description": "app1.migrations.0002_postt",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('app1', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='postt',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('content', models.TextField()),",
+        "detail": "app1.migrations.0002_postt",
+        "documentation": {
+            "value": "\n```python\nfrom app1.migrations.0002_postt import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('app1', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='postt',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('content', models.TextField()),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "app1.migrations.0003_auto_20201001_1114",
+        "description": "app1.migrations.0003_auto_20201001_1114",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('app1', '0002_postt'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='student',\n            old_name='rollno',\n            new_name='rn',\n        ),",
+        "detail": "app1.migrations.0003_auto_20201001_1114",
+        "documentation": {
+            "value": "\n```python\nfrom app1.migrations.0003_auto_20201001_1114 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('app1', '0002_postt'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='student',\n            old_name='rollno',\n            new_name='rn',\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "stuadmin",
+        "kind": 6,
+        "importPath": "app1.admin",
+        "description": "app1.admin",
+        "peekOfCode": "class stuadmin(admin.ModelAdmin):\n    list_display =['name','rn','marks']\nclass posttadmin(admin.ModelAdmin):\n    list_display =['content','created_by','cr_date']\n    search_fields=['content','created_by']\n    list_filter=['cr_date']\nadmin.site.register(student,stuadmin)\nadmin.site.register(postt,posttadmin)",
+        "detail": "app1.admin",
+        "documentation": {
+            "value": "\n```python\nfrom app1.admin import stuadmin\n```\n\n```python\n\n\n```\n\n```python\nclass stuadmin(admin.ModelAdmin):\n    list_display =['name','rn','marks']\nclass posttadmin(admin.ModelAdmin):\n    list_display =['content','created_by','cr_date']\n    search_fields=['content','created_by']\n    list_filter=['cr_date']\nadmin.site.register(student,stuadmin)\nadmin.site.register(postt,posttadmin)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "posttadmin",
+        "kind": 6,
+        "importPath": "app1.admin",
+        "description": "app1.admin",
+        "peekOfCode": "class posttadmin(admin.ModelAdmin):\n    list_display =['content','created_by','cr_date']\n    search_fields=['content','created_by']\n    list_filter=['cr_date']\nadmin.site.register(student,stuadmin)\nadmin.site.register(postt,posttadmin)",
+        "detail": "app1.admin",
+        "documentation": {
+            "value": "\n```python\nfrom app1.admin import posttadmin\n```\n\n```python\n\n\n```\n\n```python\nclass posttadmin(admin.ModelAdmin):\n    list_display =['content','created_by','cr_date']\n    search_fields=['content','created_by']\n    list_filter=['cr_date']\nadmin.site.register(student,stuadmin)\nadmin.site.register(postt,posttadmin)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "App1Config",
+        "kind": 6,
+        "importPath": "app1.apps",
+        "description": "app1.apps",
+        "peekOfCode": "class App1Config(AppConfig):\n    name = 'app1'",
+        "detail": "app1.apps",
+        "documentation": {
+            "value": "\n```python\nfrom app1.apps import App1Config\n```\n\n```python\n\n\n```\n\n```python\nclass App1Config(AppConfig):\n    name = 'app1'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "studentform",
+        "kind": 6,
+        "importPath": "app1.forms",
+        "description": "app1.forms",
+        "peekOfCode": "class studentform(forms.Form):\n    name = forms.CharField(max_length=100)\n    rn=forms.IntegerField()\n    marks=forms.FloatField()\nclass postuserform(forms.Form):\n    content =forms.CharField(max_length=1000)\n    created_by=forms.CharField(max_length=100)",
+        "detail": "app1.forms",
+        "documentation": {
+            "value": "\n```python\nfrom app1.forms import studentform\n```\n\n```python\n\n\n```\n\n```python\nclass studentform(forms.Form):\n    name = forms.CharField(max_length=100)\n    rn=forms.IntegerField()\n    marks=forms.FloatField()\nclass postuserform(forms.Form):\n    content =forms.CharField(max_length=1000)\n    created_by=forms.CharField(max_length=100)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "postuserform",
+        "kind": 6,
+        "importPath": "app1.forms",
+        "description": "app1.forms",
+        "peekOfCode": "class postuserform(forms.Form):\n    content =forms.CharField(max_length=1000)\n    created_by=forms.CharField(max_length=100)",
+        "detail": "app1.forms",
+        "documentation": {
+            "value": "\n```python\nfrom app1.forms import postuserform\n```\n\n```python\n\n\n```\n\n```python\nclass postuserform(forms.Form):\n    content =forms.CharField(max_length=1000)\n    created_by=forms.CharField(max_length=100)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "student",
+        "kind": 6,
+        "importPath": "app1.models",
+        "description": "app1.models",
+        "peekOfCode": "class student(models.Model):\n    name = models.CharField(max_length=100)\n    rn = models.IntegerField()\n    marks = models.FloatField()\n    def __str__(self):\n        return \"name:-{}\\n rollno:-{}\\n marks:-{}\".format(self.name, self.rn, self.marks)\nclass postt(models.Model):\n    content = models.TextField()\n    created_by = models.CharField(max_length=100)\n    cr_date = models.DateTimeField(auto_now_add=True)",
+        "detail": "app1.models",
+        "documentation": {
+            "value": "\n```python\nfrom app1.models import student\n```\n\n```python\n\n\n```\n\n```python\nclass student(models.Model):\n    name = models.CharField(max_length=100)\n    rn = models.IntegerField()\n    marks = models.FloatField()\n    def __str__(self):\n        return \"name:-{}\\n rollno:-{}\\n marks:-{}\".format(self.name, self.rn, self.marks)\nclass postt(models.Model):\n    content = models.TextField()\n    created_by = models.CharField(max_length=100)\n    cr_date = models.DateTimeField(auto_now_add=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "postt",
+        "kind": 6,
+        "importPath": "app1.models",
+        "description": "app1.models",
+        "peekOfCode": "class postt(models.Model):\n    content = models.TextField()\n    created_by = models.CharField(max_length=100)\n    cr_date = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return \"content:-{} \\n created by:-{} \\n cr_date:-{} \\n\".format(self.content, self.created_by, self.cr_date)",
+        "detail": "app1.models",
+        "documentation": {
+            "value": "\n```python\nfrom app1.models import postt\n```\n\n```python\n\n\n```\n\n```python\nclass postt(models.Model):\n    content = models.TextField()\n    created_by = models.CharField(max_length=100)\n    cr_date = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return \"content:-{} \\n created by:-{} \\n cr_date:-{} \\n\".format(self.content, self.created_by, self.cr_date)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "app1.urls",
+        "description": "app1.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"form/\", views.emp),\n    path(\"formpost/\", views.pstusr),\n    path(\"studentdisplay/\", views.stu_dis),\n    path(\"postdisp/\", views.pstdis),\n]",
+        "detail": "app1.urls",
+        "documentation": {
+            "value": "\n```python\nfrom app1.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path(\"form/\", views.emp),\n    path(\"formpost/\", views.pstusr),\n    path(\"studentdisplay/\", views.stu_dis),\n    path(\"postdisp/\", views.pstdis),\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "emp",
+        "kind": 2,
+        "importPath": "app1.views",
+        "description": "app1.views",
+        "peekOfCode": "def emp(req5):\n    if req5.method == 'GET':\n        print(\"get request received\")\n        request = req5\n        stu = studentform()\n        context = {'st': stu}\n        template_name = \"app1/form.html\"\n        return render(request, template_name, context)\n    else:\n        print(\"post request received\")",
+        "detail": "app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom app1.views import emp\n```\n\n```python\n\n\n```\n\n```python\ndef emp(req5):\n    if req5.method == 'GET':\n        print(\"get request received\")\n        request = req5\n        stu = studentform()\n        context = {'st': stu}\n        template_name = \"app1/form.html\"\n        return render(request, template_name, context)\n    else:\n        print(\"post request received\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "pstusr",
+        "kind": 2,
+        "importPath": "app1.views",
+        "description": "app1.views",
+        "peekOfCode": "def pstusr(req6):\n    if req6.method == 'GET':\n        print(\"get request received\")\n        request = req6\n        stu = postuserform()\n        context = {'usrpst': stu}\n        template_name = \"app1/formpost.html\"\n        return render(request, template_name, context)\n    else:\n        print(\"post request received\")",
+        "detail": "app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom app1.views import pstusr\n```\n\n```python\n\n\n```\n\n```python\ndef pstusr(req6):\n    if req6.method == 'GET':\n        print(\"get request received\")\n        request = req6\n        stu = postuserform()\n        context = {'usrpst': stu}\n        template_name = \"app1/formpost.html\"\n        return render(request, template_name, context)\n    else:\n        print(\"post request received\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "stu_dis",
+        "kind": 2,
+        "importPath": "app1.views",
+        "description": "app1.views",
+        "peekOfCode": "def stu_dis(req):\n    stu = student.objects.all()\n    context = {'student': stu}\n    return render(req, 'app1/stu_display.html', context)\ndef pstdis(req6):\n    pst = postt.objects.all()\n    context = {'post': pst}\n    template_name = 'app1/post_display.html'\n    return render(req6, template_name, context)",
+        "detail": "app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom app1.views import stu_dis\n```\n\n```python\n\n\n```\n\n```python\ndef stu_dis(req):\n    stu = student.objects.all()\n    context = {'student': stu}\n    return render(req, 'app1/stu_display.html', context)\ndef pstdis(req6):\n    pst = postt.objects.all()\n    context = {'post': pst}\n    template_name = 'app1/post_display.html'\n    return render(req6, template_name, context)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "pstdis",
+        "kind": 2,
+        "importPath": "app1.views",
+        "description": "app1.views",
+        "peekOfCode": "def pstdis(req6):\n    pst = postt.objects.all()\n    context = {'post': pst}\n    template_name = 'app1/post_display.html'\n    return render(req6, template_name, context)",
+        "detail": "app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom app1.views import pstdis\n```\n\n```python\n\n\n```\n\n```python\ndef pstdis(req6):\n    pst = postt.objects.all()\n    context = {'post': pst}\n    template_name = 'app1/post_display.html'\n    return render(req6, template_name, context)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "dbs.asgi",
+        "description": "dbs.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "dbs.asgi",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.asgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_asgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'aih^owz!in%6$49_7$jv!a9loh6s@d9bu*8o&)o^zeq05j0h%%'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import BASE_DIR\n```\n\n```python\n\n\n```\n\n```python\nBASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'aih^owz!in%6$49_7$jv!a9loh6s@d9bu*8o&)o^zeq05j0h%%'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "SECRET_KEY = 'aih^owz!in%6$49_7$jv!a9loh6s@d9bu*8o&)o^zeq05j0h%%'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = 'aih^owz!in%6$49_7$jv!a9loh6s@d9bu*8o&)o^zeq05j0h%%'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import DEBUG\n```\n\n```python\n\n\n```\n\n```python\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1',",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import ALLOWED_HOSTS\n```\n\n```python\n\n\n```\n\n```python\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1',\n    'crispy_forms'\n]",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import INSTALLED_APPS\n```\n\n```python\n\n\n```\n\n```python\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1',\n    'crispy_forms'\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = 'bootstrap4'\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import CRISPY_TEMPLATE_PACK\n```\n\n```python\n\n\n```\n\n```python\nCRISPY_TEMPLATE_PACK = 'bootstrap4'\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'dbs.urls'",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import MIDDLEWARE\n```\n\n```python\n\n\n```\n\n```python\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'dbs.urls'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "ROOT_URLCONF = 'dbs.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import ROOT_URLCONF\n```\n\n```python\n\n\n```\n\n```python\nROOT_URLCONF = 'dbs.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import TEMPLATES\n```\n\n```python\n\n\n```\n\n```python\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'dbs.wsgi.application'\nSTATICFILES_DIRS = ['static']\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': \"djangoform\",\n        'USER': 'root',\n        'PASSWORD': 'root',",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import WSGI_APPLICATION\n```\n\n```python\n\n\n```\n\n```python\nWSGI_APPLICATION = 'dbs.wsgi.application'\nSTATICFILES_DIRS = ['static']\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': \"djangoform\",\n        'USER': 'root',\n        'PASSWORD': 'root',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "STATICFILES_DIRS = ['static']\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': \"djangoform\",\n        'USER': 'root',\n        'PASSWORD': 'root',\n        'HOST': 'localhost',",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import STATICFILES_DIRS\n```\n\n```python\n\n\n```\n\n```python\nSTATICFILES_DIRS = ['static']\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': \"djangoform\",\n        'USER': 'root',\n        'PASSWORD': 'root',\n        'HOST': 'localhost',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': \"djangoform\",\n        'USER': 'root',\n        'PASSWORD': 'root',\n        'HOST': 'localhost',\n        'PORT': '3306'\n    }\n}",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import DATABASES\n```\n\n```python\n\n\n```\n\n```python\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': \"djangoform\",\n        'USER': 'root',\n        'PASSWORD': 'root',\n        'HOST': 'localhost',\n        'PORT': '3306'\n    }\n}\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import AUTH_PASSWORD_VALIDATORS\n```\n\n```python\n\n\n```\n\n```python\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import LANGUAGE_CODE\n```\n\n```python\n\n\n```\n\n```python\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "TIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import TIME_ZONE\n```\n\n```python\n\n\n```\n\n```python\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import USE_I18N\n```\n\n```python\n\n\n```\n\n```python\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import USE_L10N\n```\n\n```python\n\n\n```\n\n```python\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import USE_TZ\n```\n\n```python\n\n\n```\n\n```python\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "dbs.settings",
+        "description": "dbs.settings",
+        "peekOfCode": "STATIC_URL = '/static/'",
+        "detail": "dbs.settings",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.settings import STATIC_URL\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "dbs.urls",
+        "description": "dbs.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"app1/\",include(\"app1.urls\")),\n    path('admin/', admin.site.urls),\n]",
+        "detail": "dbs.urls",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path(\"app1/\",include(\"app1.urls\")),\n    path('admin/', admin.site.urls),\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "dbs.wsgi",
+        "description": "dbs.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "dbs.wsgi",
+        "documentation": {
+            "value": "\n```python\nfrom dbs.wsgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_wsgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'dbs.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {
+            "value": "\n```python\nfrom manage import main\n```\n\n```python\n\n\n```\n\n```python\ndef main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'dbs.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
