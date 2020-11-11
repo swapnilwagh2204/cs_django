@@ -378,10 +378,10 @@
         "kind": 6,
         "importPath": "app1.models",
         "description": "app1.models",
-        "peekOfCode": "class student(models.Model):\n    name=models.CharField(max_length=100)\n    rn=models.IntegerField()\n    marks=models.FloatField()\n    subject=models.CharField(max_length=100)\n    school=models.CharField(max_length=100)\n    def __str__(self):\n       return \"name:-{}\\n rollno:-{}\\n marks:-{}\\n subject:-{}\".format(self.name, self.rn, self.marks)\nclass postt(models.Model):\n    content=models.TextField()",
+        "peekOfCode": "class student(models.Model):\n    name = models.CharField(max_length=100)\n    rn = models.IntegerField()\n    marks = models.FloatField()\n    subject = models.CharField(max_length=100)\n    school = models.CharField(max_length=100)\n    def __str__(self):\n        return \"name:-{}\\n rollno:-{}\\n marks:-{}\\n subject:-{}\".format(self.name, self.rn, self.marks)\nclass postt(models.Model):\n    content = models.TextField()",
         "detail": "app1.models",
         "documentation": {
-            "value": "\n```python\nfrom app1.models import student\n```\n\n```python\n\n\n```\n\n```python\nclass student(models.Model):\n    name=models.CharField(max_length=100)\n    rn=models.IntegerField()\n    marks=models.FloatField()\n    subject=models.CharField(max_length=100)\n    school=models.CharField(max_length=100)\n    def __str__(self):\n       return \"name:-{}\\n rollno:-{}\\n marks:-{}\\n subject:-{}\".format(self.name, self.rn, self.marks)\nclass postt(models.Model):\n    content=models.TextField()\n```\n",
+            "value": "\n```python\nfrom app1.models import student\n```\n\n```python\n\n\n```\n\n```python\nclass student(models.Model):\n    name = models.CharField(max_length=100)\n    rn = models.IntegerField()\n    marks = models.FloatField()\n    subject = models.CharField(max_length=100)\n    school = models.CharField(max_length=100)\n    def __str__(self):\n        return \"name:-{}\\n rollno:-{}\\n marks:-{}\\n subject:-{}\".format(self.name, self.rn, self.marks)\nclass postt(models.Model):\n    content = models.TextField()\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -390,10 +390,22 @@
         "kind": 6,
         "importPath": "app1.models",
         "description": "app1.models",
-        "peekOfCode": "class postt(models.Model):\n    content=models.TextField()\n    created_by=models.CharField(max_length=100)\n    sample=models.CharField(max_length=100)\n    cr_date=models.DateTimeField(auto_now_add=True)   \n    def __str__(self):\n        return \"content:-{} \\n created by:-{} \\n cr_date:-{} \\n\".format(self.content, self.created_by, self.cr_date)",
+        "peekOfCode": "class postt(models.Model):\n    content = models.TextField()\n    created_by = models.CharField(max_length=100)\n    sample = models.CharField(max_length=100)\n    cr_date = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return \"content:-{} \\n created by:-{} \\n cr_date:-{} \\n\".format(self.content, self.created_by, self.cr_date)",
         "detail": "app1.models",
         "documentation": {
-            "value": "\n```python\nfrom app1.models import postt\n```\n\n```python\n\n\n```\n\n```python\nclass postt(models.Model):\n    content=models.TextField()\n    created_by=models.CharField(max_length=100)\n    sample=models.CharField(max_length=100)\n    cr_date=models.DateTimeField(auto_now_add=True)   \n    def __str__(self):\n        return \"content:-{} \\n created by:-{} \\n cr_date:-{} \\n\".format(self.content, self.created_by, self.cr_date)\n```\n",
+            "value": "\n```python\nfrom app1.models import postt\n```\n\n```python\n\n\n```\n\n```python\nclass postt(models.Model):\n    content = models.TextField()\n    created_by = models.CharField(max_length=100)\n    sample = models.CharField(max_length=100)\n    cr_date = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return \"content:-{} \\n created by:-{} \\n cr_date:-{} \\n\".format(self.content, self.created_by, self.cr_date)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "app1.urls",
+        "description": "app1.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"form/\", views.emp),\n    path(\"formpost/\", views.pstusr),\n    path(\"dispstu/\", views.disstu),\n    path(\"disppost/\", views.dispost),\n]",
+        "detail": "app1.urls",
+        "documentation": {
+            "value": "\n```python\nfrom app1.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path(\"form/\", views.emp),\n    path(\"formpost/\", views.pstusr),\n    path(\"dispstu/\", views.disstu),\n    path(\"disppost/\", views.dispost),\n]\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -402,10 +414,10 @@
         "kind": 2,
         "importPath": "app1.views",
         "description": "app1.views",
-        "peekOfCode": "def emp(req5):\n    if req5.method=='GET':\n        print(\"get request received\")\n        request=req5\n        stu=studentform()\n        context ={'st':stu}\n        template_name=\"app1/form.html\"\n        return render(request, template_name, context)\n    else:\n        print(\"post request received\")",
+        "peekOfCode": "def emp(req5):\n    if req5.method == 'GET':\n        print(\"get request received\")\n        request = req5\n        stu = studentform()\n        context = {'st': stu}\n        template_name = \"app1/form.html\"\n        return render(request, template_name, context)\n    else:\n        print(\"post request received\")",
         "detail": "app1.views",
         "documentation": {
-            "value": "\n```python\nfrom app1.views import emp\n```\n\n```python\n\n\n```\n\n```python\ndef emp(req5):\n    if req5.method=='GET':\n        print(\"get request received\")\n        request=req5\n        stu=studentform()\n        context ={'st':stu}\n        template_name=\"app1/form.html\"\n        return render(request, template_name, context)\n    else:\n        print(\"post request received\")\n```\n",
+            "value": "\n```python\nfrom app1.views import emp\n```\n\n```python\n\n\n```\n\n```python\ndef emp(req5):\n    if req5.method == 'GET':\n        print(\"get request received\")\n        request = req5\n        stu = studentform()\n        context = {'st': stu}\n        template_name = \"app1/form.html\"\n        return render(request, template_name, context)\n    else:\n        print(\"post request received\")\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -414,10 +426,34 @@
         "kind": 2,
         "importPath": "app1.views",
         "description": "app1.views",
-        "peekOfCode": "def pstusr(req6):\n    if req6.method=='GET':\n        print(\"get request received\")\n        request=req6\n        stu=postuserform()\n        context ={'usrpst':stu}\n        template_name=\"app1/formpost.html\"\n        return render(request, template_name, context)\n    else:\n        print(\"post request received\")",
+        "peekOfCode": "def pstusr(req6):\n    if req6.method == 'GET':\n        print(\"get request received\")\n        request = req6\n        stu = postuserform()\n        context = {'usrpst': stu}\n        template_name = \"app1/formpost.html\"\n        return render(request, template_name, context)\n    else:\n        print(\"post request received\")",
         "detail": "app1.views",
         "documentation": {
-            "value": "\n```python\nfrom app1.views import pstusr\n```\n\n```python\n\n\n```\n\n```python\ndef pstusr(req6):\n    if req6.method=='GET':\n        print(\"get request received\")\n        request=req6\n        stu=postuserform()\n        context ={'usrpst':stu}\n        template_name=\"app1/formpost.html\"\n        return render(request, template_name, context)\n    else:\n        print(\"post request received\")\n```\n",
+            "value": "\n```python\nfrom app1.views import pstusr\n```\n\n```python\n\n\n```\n\n```python\ndef pstusr(req6):\n    if req6.method == 'GET':\n        print(\"get request received\")\n        request = req6\n        stu = postuserform()\n        context = {'usrpst': stu}\n        template_name = \"app1/formpost.html\"\n        return render(request, template_name, context)\n    else:\n        print(\"post request received\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "disstu",
+        "kind": 2,
+        "importPath": "app1.views",
+        "description": "app1.views",
+        "peekOfCode": "def disstu(req):\n    stu = student.objects.all()\n    context = {'student': stu}\n    return render(req, 'app1/stu_display.html', context)\ndef dispost(req):\n    post = postt.objects.all()\n    context = {'post': post}\n    return render(req, 'app1/post_display.html', context)",
+        "detail": "app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom app1.views import disstu\n```\n\n```python\n\n\n```\n\n```python\ndef disstu(req):\n    stu = student.objects.all()\n    context = {'student': stu}\n    return render(req, 'app1/stu_display.html', context)\ndef dispost(req):\n    post = postt.objects.all()\n    context = {'post': post}\n    return render(req, 'app1/post_display.html', context)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dispost",
+        "kind": 2,
+        "importPath": "app1.views",
+        "description": "app1.views",
+        "peekOfCode": "def dispost(req):\n    post = postt.objects.all()\n    context = {'post': post}\n    return render(req, 'app1/post_display.html', context)",
+        "detail": "app1.views",
+        "documentation": {
+            "value": "\n```python\nfrom app1.views import dispost\n```\n\n```python\n\n\n```\n\n```python\ndef dispost(req):\n    post = postt.objects.all()\n    context = {'post': post}\n    return render(req, 'app1/post_display.html', context)\n```\n",
             "supportThemeIcons": false
         }
     },
