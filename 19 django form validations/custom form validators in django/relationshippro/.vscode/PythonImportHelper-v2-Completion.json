@@ -1,0 +1,806 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {
+            "value": "\n```python\nimport django.db.models.deletion\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {
+            "value": "\n```python\nimport django\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {
+            "value": "\n```python\nimport django.core.validators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {
+            "value": "\n```python\nimport django.core.validators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {
+            "value": "\n```python\nimport django.test\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {
+            "value": "\n```python\nimport django.http\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {
+            "value": "\n```python\nimport os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.asgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {
+            "value": "\n```python\nimport pathlib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.wsgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {
+            "value": "\n```python\nimport django.apps\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {
+            "value": "\n```python\nimport sys\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "relapp.migrations.0001_initial",
+        "description": "relapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('username', models.CharField(max_length=20)),",
+        "detail": "relapp.migrations.0001_initial",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('username', models.CharField(max_length=20)),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "relapp.migrations.0002_cummunity",
+        "description": "relapp.migrations.0002_cummunity",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('relapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Cummunity',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('cummunity_name', models.CharField(max_length=20)),",
+        "detail": "relapp.migrations.0002_cummunity",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.migrations.0002_cummunity import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('relapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Cummunity',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('cummunity_name', models.CharField(max_length=20)),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "relapp.migrations.0003_auto_20201001_1204",
+        "description": "relapp.migrations.0003_auto_20201001_1204",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('relapp', '0002_cummunity'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='cummunity',\n            name='user',\n            field=models.ManyToManyField(related_name='cummunity', to='relapp.User'),\n        ),",
+        "detail": "relapp.migrations.0003_auto_20201001_1204",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.migrations.0003_auto_20201001_1204 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('relapp', '0002_cummunity'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='cummunity',\n            name='user',\n            field=models.ManyToManyField(related_name='cummunity', to='relapp.User'),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "relapp.migrations.0004_empreg",
+        "description": "relapp.migrations.0004_empreg",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('relapp', '0003_auto_20201001_1204'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='EmpReg',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('username', models.CharField(max_length=20, unique=True)),",
+        "detail": "relapp.migrations.0004_empreg",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.migrations.0004_empreg import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('relapp', '0003_auto_20201001_1204'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='EmpReg',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('username', models.CharField(max_length=20, unique=True)),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "UserAdmin",
+        "kind": 6,
+        "importPath": "relapp.admin",
+        "description": "relapp.admin",
+        "peekOfCode": "class UserAdmin(admin.ModelAdmin):\n    list_display = ['username','city','address']\nadmin.site.register(User,UserAdmin)\nclass PostAdmin(admin.ModelAdmin):\n    list_display = ['title','content','created_by']\nadmin.site.register(Post,PostAdmin)\nclass CommentsAdmin(admin.ModelAdmin):\n    list_display = ['text','post','comment_by']\nclass EmpRegAdmin(admin.ModelAdmin):\n    list_display = ['username','password','fullname','address','gender','city']",
+        "detail": "relapp.admin",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.admin import UserAdmin\n```\n\n```python\n\n\n```\n\n```python\nclass UserAdmin(admin.ModelAdmin):\n    list_display = ['username','city','address']\nadmin.site.register(User,UserAdmin)\nclass PostAdmin(admin.ModelAdmin):\n    list_display = ['title','content','created_by']\nadmin.site.register(Post,PostAdmin)\nclass CommentsAdmin(admin.ModelAdmin):\n    list_display = ['text','post','comment_by']\nclass EmpRegAdmin(admin.ModelAdmin):\n    list_display = ['username','password','fullname','address','gender','city']\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PostAdmin",
+        "kind": 6,
+        "importPath": "relapp.admin",
+        "description": "relapp.admin",
+        "peekOfCode": "class PostAdmin(admin.ModelAdmin):\n    list_display = ['title','content','created_by']\nadmin.site.register(Post,PostAdmin)\nclass CommentsAdmin(admin.ModelAdmin):\n    list_display = ['text','post','comment_by']\nclass EmpRegAdmin(admin.ModelAdmin):\n    list_display = ['username','password','fullname','address','gender','city']\nadmin.site.register(EmpReg,EmpRegAdmin)",
+        "detail": "relapp.admin",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.admin import PostAdmin\n```\n\n```python\n\n\n```\n\n```python\nclass PostAdmin(admin.ModelAdmin):\n    list_display = ['title','content','created_by']\nadmin.site.register(Post,PostAdmin)\nclass CommentsAdmin(admin.ModelAdmin):\n    list_display = ['text','post','comment_by']\nclass EmpRegAdmin(admin.ModelAdmin):\n    list_display = ['username','password','fullname','address','gender','city']\nadmin.site.register(EmpReg,EmpRegAdmin)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CommentsAdmin",
+        "kind": 6,
+        "importPath": "relapp.admin",
+        "description": "relapp.admin",
+        "peekOfCode": "class CommentsAdmin(admin.ModelAdmin):\n    list_display = ['text','post','comment_by']\nclass EmpRegAdmin(admin.ModelAdmin):\n    list_display = ['username','password','fullname','address','gender','city']\nadmin.site.register(EmpReg,EmpRegAdmin)",
+        "detail": "relapp.admin",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.admin import CommentsAdmin\n```\n\n```python\n\n\n```\n\n```python\nclass CommentsAdmin(admin.ModelAdmin):\n    list_display = ['text','post','comment_by']\nclass EmpRegAdmin(admin.ModelAdmin):\n    list_display = ['username','password','fullname','address','gender','city']\nadmin.site.register(EmpReg,EmpRegAdmin)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "EmpRegAdmin",
+        "kind": 6,
+        "importPath": "relapp.admin",
+        "description": "relapp.admin",
+        "peekOfCode": "class EmpRegAdmin(admin.ModelAdmin):\n    list_display = ['username','password','fullname','address','gender','city']\nadmin.site.register(EmpReg,EmpRegAdmin)",
+        "detail": "relapp.admin",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.admin import EmpRegAdmin\n```\n\n```python\n\n\n```\n\n```python\nclass EmpRegAdmin(admin.ModelAdmin):\n    list_display = ['username','password','fullname','address','gender','city']\nadmin.site.register(EmpReg,EmpRegAdmin)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "EmpForm",
+        "kind": 6,
+        "importPath": "relapp.forms",
+        "description": "relapp.forms",
+        "peekOfCode": "class EmpForm(forms.Form):\n    username = forms.CharField(validators=[UsernameValidator()])\n    password = forms.CharField(validators=[PasswordValidator(8,20)])\n    fullname = forms.CharField()\n    address = forms.CharField()\n    gender = forms.ChoiceField(choices=(('male','male'),('female','female')))\n    city = forms.CharField()",
+        "detail": "relapp.forms",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.forms import EmpForm\n```\n\n```python\n\n\n```\n\n```python\nclass EmpForm(forms.Form):\n    username = forms.CharField(validators=[UsernameValidator()])\n    password = forms.CharField(validators=[PasswordValidator(8,20)])\n    fullname = forms.CharField()\n    address = forms.CharField()\n    gender = forms.ChoiceField(choices=(('male','male'),('female','female')))\n    city = forms.CharField()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "relapp.models",
+        "description": "relapp.models",
+        "peekOfCode": "class User(models.Model):\n    username = models.CharField(max_length=20)\n    city = models.CharField(max_length=30)\n    address = models.CharField(max_length=50)\nclass Post(models.Model):\n    title = models.CharField(max_length=30)\n    content = models.CharField(max_length=50)\n    created_by = models.ForeignKey(User,on_delete=models.CASCADE)\nclass Comments(models.Model):\n    text = models.CharField(max_length=50)",
+        "detail": "relapp.models",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.models import User\n```\n\n```python\n\n\n```\n\n```python\nclass User(models.Model):\n    username = models.CharField(max_length=20)\n    city = models.CharField(max_length=30)\n    address = models.CharField(max_length=50)\nclass Post(models.Model):\n    title = models.CharField(max_length=30)\n    content = models.CharField(max_length=50)\n    created_by = models.ForeignKey(User,on_delete=models.CASCADE)\nclass Comments(models.Model):\n    text = models.CharField(max_length=50)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "relapp.models",
+        "description": "relapp.models",
+        "peekOfCode": "class Post(models.Model):\n    title = models.CharField(max_length=30)\n    content = models.CharField(max_length=50)\n    created_by = models.ForeignKey(User,on_delete=models.CASCADE)\nclass Comments(models.Model):\n    text = models.CharField(max_length=50)\n    post = models.ForeignKey(Post,on_delete=models.CASCADE)\n    comment_by = models.ForeignKey(User,on_delete=models.CASCADE)\nclass Cummunity(models.Model):\n    cummunity_name=models.CharField(max_length=20)",
+        "detail": "relapp.models",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.models import Post\n```\n\n```python\n\n\n```\n\n```python\nclass Post(models.Model):\n    title = models.CharField(max_length=30)\n    content = models.CharField(max_length=50)\n    created_by = models.ForeignKey(User,on_delete=models.CASCADE)\nclass Comments(models.Model):\n    text = models.CharField(max_length=50)\n    post = models.ForeignKey(Post,on_delete=models.CASCADE)\n    comment_by = models.ForeignKey(User,on_delete=models.CASCADE)\nclass Cummunity(models.Model):\n    cummunity_name=models.CharField(max_length=20)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Comments",
+        "kind": 6,
+        "importPath": "relapp.models",
+        "description": "relapp.models",
+        "peekOfCode": "class Comments(models.Model):\n    text = models.CharField(max_length=50)\n    post = models.ForeignKey(Post,on_delete=models.CASCADE)\n    comment_by = models.ForeignKey(User,on_delete=models.CASCADE)\nclass Cummunity(models.Model):\n    cummunity_name=models.CharField(max_length=20)\n    user = models.ManyToManyField(User ,related_name='cummunity')\nclass EmpReg(models.Model):\n    username = models.CharField(max_length=20,unique=True)\n    password = models.CharField(max_length=20)",
+        "detail": "relapp.models",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.models import Comments\n```\n\n```python\n\n\n```\n\n```python\nclass Comments(models.Model):\n    text = models.CharField(max_length=50)\n    post = models.ForeignKey(Post,on_delete=models.CASCADE)\n    comment_by = models.ForeignKey(User,on_delete=models.CASCADE)\nclass Cummunity(models.Model):\n    cummunity_name=models.CharField(max_length=20)\n    user = models.ManyToManyField(User ,related_name='cummunity')\nclass EmpReg(models.Model):\n    username = models.CharField(max_length=20,unique=True)\n    password = models.CharField(max_length=20)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Cummunity",
+        "kind": 6,
+        "importPath": "relapp.models",
+        "description": "relapp.models",
+        "peekOfCode": "class Cummunity(models.Model):\n    cummunity_name=models.CharField(max_length=20)\n    user = models.ManyToManyField(User ,related_name='cummunity')\nclass EmpReg(models.Model):\n    username = models.CharField(max_length=20,unique=True)\n    password = models.CharField(max_length=20)\n    fullname = models.CharField(max_length=30)\n    address = models.CharField(max_length=30)\n    gender = models.CharField(max_length=10)\n    city = models.CharField(max_length=20)",
+        "detail": "relapp.models",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.models import Cummunity\n```\n\n```python\n\n\n```\n\n```python\nclass Cummunity(models.Model):\n    cummunity_name=models.CharField(max_length=20)\n    user = models.ManyToManyField(User ,related_name='cummunity')\nclass EmpReg(models.Model):\n    username = models.CharField(max_length=20,unique=True)\n    password = models.CharField(max_length=20)\n    fullname = models.CharField(max_length=30)\n    address = models.CharField(max_length=30)\n    gender = models.CharField(max_length=10)\n    city = models.CharField(max_length=20)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "EmpReg",
+        "kind": 6,
+        "importPath": "relapp.models",
+        "description": "relapp.models",
+        "peekOfCode": "class EmpReg(models.Model):\n    username = models.CharField(max_length=20,unique=True)\n    password = models.CharField(max_length=20)\n    fullname = models.CharField(max_length=30)\n    address = models.CharField(max_length=30)\n    gender = models.CharField(max_length=10)\n    city = models.CharField(max_length=20)\n    def __str__(self):\n        return f'{self.username}'",
+        "detail": "relapp.models",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.models import EmpReg\n```\n\n```python\n\n\n```\n\n```python\nclass EmpReg(models.Model):\n    username = models.CharField(max_length=20,unique=True)\n    password = models.CharField(max_length=20)\n    fullname = models.CharField(max_length=30)\n    address = models.CharField(max_length=30)\n    gender = models.CharField(max_length=10)\n    city = models.CharField(max_length=20)\n    def __str__(self):\n        return f'{self.username}'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "relapp.urls",
+        "description": "relapp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('reg/',empRegView),\n    path('login/',loginView),\n]",
+        "detail": "relapp.urls",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('reg/',empRegView),\n    path('login/',loginView),\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PasswordValidator",
+        "kind": 6,
+        "importPath": "relapp.validators",
+        "description": "relapp.validators",
+        "peekOfCode": "class PasswordValidator(object):\n    def __init__(self, min_digits=0, max_digits=0):\n        self.min_digits = min_digits\n        self.max_digits = max_digits\n    def validate(self, value):\n        if len(value) < self.min_digits or len(value) > self.max_digits:\n            raise ValidationError(\n                'The Password must be between 8 to 20 characters')\n        if not any(x.islower() for x in value):\n            raise ValidationError(",
+        "detail": "relapp.validators",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.validators import PasswordValidator\n```\n\n```python\n\n\n```\n\n```python\nclass PasswordValidator(object):\n    def __init__(self, min_digits=0, max_digits=0):\n        self.min_digits = min_digits\n        self.max_digits = max_digits\n    def validate(self, value):\n        if len(value) < self.min_digits or len(value) > self.max_digits:\n            raise ValidationError(\n                'The Password must be between 8 to 20 characters')\n        if not any(x.islower() for x in value):\n            raise ValidationError(\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "UsernameValidator",
+        "kind": 6,
+        "importPath": "relapp.validators",
+        "description": "relapp.validators",
+        "peekOfCode": "class UsernameValidator(object):\n    def __init__(self):\n        pass\n    def validate(self, value):\n        if EmpReg.objects.filter(username=value):\n            raise ValidationError(f\"The user with {value} already exists\")\n        return value\n    def __call__(self, value):\n        return self.validate(value)",
+        "detail": "relapp.validators",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.validators import UsernameValidator\n```\n\n```python\n\n\n```\n\n```python\nclass UsernameValidator(object):\n    def __init__(self):\n        pass\n    def validate(self, value):\n        if EmpReg.objects.filter(username=value):\n            raise ValidationError(f\"The user with {value} already exists\")\n        return value\n    def __call__(self, value):\n        return self.validate(value)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "passwordvalidator",
+        "kind": 2,
+        "importPath": "relapp.validators",
+        "description": "relapp.validators",
+        "peekOfCode": "def passwordvalidator(value):\n    if len(value) < 8 or len(value) > 20:\n        raise ValidationError(\"Password must be between 8 to 20 character\")\n    return value\nclass PasswordValidator(object):\n    def __init__(self, min_digits=0, max_digits=0):\n        self.min_digits = min_digits\n        self.max_digits = max_digits\n    def validate(self, value):\n        if len(value) < self.min_digits or len(value) > self.max_digits:",
+        "detail": "relapp.validators",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.validators import passwordvalidator\n```\n\n```python\n\n\n```\n\n```python\ndef passwordvalidator(value):\n    if len(value) < 8 or len(value) > 20:\n        raise ValidationError(\"Password must be between 8 to 20 character\")\n    return value\nclass PasswordValidator(object):\n    def __init__(self, min_digits=0, max_digits=0):\n        self.min_digits = min_digits\n        self.max_digits = max_digits\n    def validate(self, value):\n        if len(value) < self.min_digits or len(value) > self.max_digits:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "empRegView",
+        "kind": 2,
+        "importPath": "relapp.views",
+        "description": "relapp.views",
+        "peekOfCode": "def empRegView(request):\n    template_name = 'relapp/reg.html'\n    if request.method == 'GET':\n        form = EmpForm()\n        return render(request,template_name,{'form':form})\n    else:\n        form = EmpForm(request.POST)\n        if form.is_valid():\n            u = form.cleaned_data.get('username')\n            p = form.cleaned_data.get('password')",
+        "detail": "relapp.views",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.views import empRegView\n```\n\n```python\n\n\n```\n\n```python\ndef empRegView(request):\n    template_name = 'relapp/reg.html'\n    if request.method == 'GET':\n        form = EmpForm()\n        return render(request,template_name,{'form':form})\n    else:\n        form = EmpForm(request.POST)\n        if form.is_valid():\n            u = form.cleaned_data.get('username')\n            p = form.cleaned_data.get('password')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "loginView",
+        "kind": 2,
+        "importPath": "relapp.views",
+        "description": "relapp.views",
+        "peekOfCode": "def loginView(request):\n    return HttpResponse(\"Hello\")",
+        "detail": "relapp.views",
+        "documentation": {
+            "value": "\n```python\nfrom relapp.views import loginView\n```\n\n```python\n\n\n```\n\n```python\ndef loginView(request):\n    return HttpResponse(\"Hello\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "relationshippro.asgi",
+        "description": "relationshippro.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "relationshippro.asgi",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.asgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_asgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'm+6n7#h-2o3q%cgmnx%r9%d#!sj!%!az7)9&kmywpbd^!w6*c$'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import BASE_DIR\n```\n\n```python\n\n\n```\n\n```python\nBASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'm+6n7#h-2o3q%cgmnx%r9%d#!sj!%!az7)9&kmywpbd^!w6*c$'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "SECRET_KEY = 'm+6n7#h-2o3q%cgmnx%r9%d#!sj!%!az7)9&kmywpbd^!w6*c$'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = 'm+6n7#h-2o3q%cgmnx%r9%d#!sj!%!az7)9&kmywpbd^!w6*c$'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import DEBUG\n```\n\n```python\n\n\n```\n\n```python\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'relapp',",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import ALLOWED_HOSTS\n```\n\n```python\n\n\n```\n\n```python\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'relapp',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'relapp',\n]\nMIDDLEWARE = [",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import INSTALLED_APPS\n```\n\n```python\n\n\n```\n\n```python\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'relapp',\n]\nMIDDLEWARE = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'relationshippro.urls'",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import MIDDLEWARE\n```\n\n```python\n\n\n```\n\n```python\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'relationshippro.urls'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "ROOT_URLCONF = 'relationshippro.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import ROOT_URLCONF\n```\n\n```python\n\n\n```\n\n```python\nROOT_URLCONF = 'relationshippro.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import TEMPLATES\n```\n\n```python\n\n\n```\n\n```python\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'relationshippro.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': \"djdbcustomvali\",\n        'USER': 'root',\n        'PASSWORD': 'root',\n        'HOST': 'localhost',",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import WSGI_APPLICATION\n```\n\n```python\n\n\n```\n\n```python\nWSGI_APPLICATION = 'relationshippro.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': \"djdbcustomvali\",\n        'USER': 'root',\n        'PASSWORD': 'root',\n        'HOST': 'localhost',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': \"djdbcustomvali\",\n        'USER': 'root',\n        'PASSWORD': 'root',\n        'HOST': 'localhost',\n        'PORT': '3306'\n    }\n}",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import DATABASES\n```\n\n```python\n\n\n```\n\n```python\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': \"djdbcustomvali\",\n        'USER': 'root',\n        'PASSWORD': 'root',\n        'HOST': 'localhost',\n        'PORT': '3306'\n    }\n}\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import AUTH_PASSWORD_VALIDATORS\n```\n\n```python\n\n\n```\n\n```python\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import LANGUAGE_CODE\n```\n\n```python\n\n\n```\n\n```python\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import TIME_ZONE\n```\n\n```python\n\n\n```\n\n```python\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import USE_I18N\n```\n\n```python\n\n\n```\n\n```python\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import USE_L10N\n```\n\n```python\n\n\n```\n\n```python\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import USE_TZ\n```\n\n```python\n\n\n```\n\n```python\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "relationshippro.settings",
+        "description": "relationshippro.settings",
+        "peekOfCode": "STATIC_URL = '/static/'",
+        "detail": "relationshippro.settings",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.settings import STATIC_URL\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_URL = '/static/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "relationshippro.urls",
+        "description": "relationshippro.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('relapp/',include('relapp.urls'))\n]",
+        "detail": "relationshippro.urls",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('relapp/',include('relapp.urls'))\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "relationshippro.wsgi",
+        "description": "relationshippro.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "relationshippro.wsgi",
+        "documentation": {
+            "value": "\n```python\nfrom relationshippro.wsgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_wsgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "RelappConfig",
+        "kind": 6,
+        "importPath": "apps",
+        "description": "apps",
+        "peekOfCode": "class RelappConfig(AppConfig):\n    name = 'relapp'",
+        "detail": "apps",
+        "documentation": {
+            "value": "\n```python\nfrom apps import RelappConfig\n```\n\n```python\n\n\n```\n\n```python\nclass RelappConfig(AppConfig):\n    name = 'relapp'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'relationshippro.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {
+            "value": "\n```python\nfrom manage import main\n```\n\n```python\n\n\n```\n\n```python\ndef main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'relationshippro.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
