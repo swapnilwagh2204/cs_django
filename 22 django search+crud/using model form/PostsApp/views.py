@@ -1,3 +1,4 @@
+from django.contrib.auth.decorators import login_required
 from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from .forms import UserForm, PostsForm, postupdateform
@@ -45,6 +46,7 @@ def loginView(req):
     return render(req, template_name, context)
 
 
+@login_required(login_url='Userlogin')
 def UserPosts(req):
     template_name = 'PostsApp/allPosts.html'
     user_posts = posts.objects.all().order_by('-date')
@@ -52,6 +54,7 @@ def UserPosts(req):
     return render(req, template_name, context)
 
 
+@login_required(login_url='Userlogin')
 def postView(req):
     if req.method == 'GET':
         template_name = 'PostsApp/addPost.html'
@@ -100,6 +103,11 @@ def deleteview(request, pk):
             return redirect('register')
     except:
         return HttpResponse("please provide valid input")
+
+
+def sample(request):
+    current_user = request.user
+    return HttpResponse(current_user)
 
 
 def updateview(request, pk):

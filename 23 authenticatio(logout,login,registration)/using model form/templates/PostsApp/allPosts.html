@@ -9,11 +9,15 @@
   <div class="well well-sm">
     <h3>{{p.title}}</h3>
     {{p.content}} <br />
+
+    {% if p.author == user %}
+
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{p.date}}<br />
-    <a class="btn btn-danger" href="/postapp/delete/{{p.id}}">delete</a
-    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a class="btn btn-danger" href="/postapp/delete/{{p.id}}">delete</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a class="btn btn-success" href="/postapp/update/{{p.id}}/">update</a><br />
+    {% endif %}
+
   </div>
   {% endfor %}
 </div>

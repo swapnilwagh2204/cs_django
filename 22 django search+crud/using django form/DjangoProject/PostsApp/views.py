@@ -1,8 +1,11 @@
-from django.shortcuts import render, redirect
-from django.http import HttpResponse
-from .forms import UserForm, PostsForm, postupdateform
-from .models import registration, posts
+from django.contrib.auth.decorators import login_required
 from django.db.models import Q
+from django.http import HttpResponse
+from django.shortcuts import redirect, render
+
+from .forms import PostsForm, UserForm, postupdateform
+from .models import posts, registration
+
 # Create your views here.
 
 
@@ -45,6 +48,7 @@ def loginView(req):
     return render(req, template_name, context)
 
 
+@login_required(login_url='Userlogin')
 def UserPosts(req):
     template_name = 'PostsApp/allPosts.html'
     user_posts = posts.objects.all().order_by('-date')
@@ -52,6 +56,7 @@ def UserPosts(req):
     return render(req, template_name, context)
 
 
+@login_required(login_url='Userlogin')
 def postView(req):
     if req.method == 'GET':
         template_name = 'PostsApp/addPost.html'

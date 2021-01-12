@@ -1,0 +1,1768 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "ModelForm",
+        "importPath": "django.forms.models",
+        "description": "django.forms.models",
+        "isExtraImport": true,
+        "detail": "django.forms.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "validators",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {}
+    },
+    {
+        "label": "validators",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mylogin.app1.migrations.0001_initial",
+        "description": "mylogin.app1.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Users',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('Username', models.CharField(max_length=20, unique=True)),",
+        "detail": "mylogin.app1.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mylogin.app1.migrations.0002_remove_users_email",
+        "description": "mylogin.app1.migrations.0002_remove_users_email",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('app1', '0001_initial'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='users',\n            name='Email',\n        ),\n    ]",
+        "detail": "mylogin.app1.migrations.0002_remove_users_email",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mylogin.app1.migrations.0003_auto_20201006_2105",
+        "description": "mylogin.app1.migrations.0003_auto_20201006_2105",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('app1', '0002_remove_users_email'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='users',\n            name='Password',\n            field=models.CharField(max_length=50),\n        ),",
+        "detail": "mylogin.app1.migrations.0003_auto_20201006_2105",
+        "documentation": {}
+    },
+    {
+        "label": "UsersAdmin",
+        "kind": 6,
+        "importPath": "mylogin.app1.admin",
+        "description": "mylogin.app1.admin",
+        "peekOfCode": "class UsersAdmin(admin.ModelAdmin):\n    list_display = ['Username', 'Password', 'Fullname', 'Address', 'Gender']\nclass posttadmin(admin.ModelAdmin):\n    list_display = ['id', 'content', 'cr_date', 'created_by']\nadmin.site.register(Users, UsersAdmin)\nadmin.site.register(postt, posttadmin)",
+        "detail": "mylogin.app1.admin",
+        "documentation": {}
+    },
+    {
+        "label": "posttadmin",
+        "kind": 6,
+        "importPath": "mylogin.app1.admin",
+        "description": "mylogin.app1.admin",
+        "peekOfCode": "class posttadmin(admin.ModelAdmin):\n    list_display = ['id', 'content', 'cr_date', 'created_by']\nadmin.site.register(Users, UsersAdmin)\nadmin.site.register(postt, posttadmin)",
+        "detail": "mylogin.app1.admin",
+        "documentation": {}
+    },
+    {
+        "label": "App1Config",
+        "kind": 6,
+        "importPath": "mylogin.app1.apps",
+        "description": "mylogin.app1.apps",
+        "peekOfCode": "class App1Config(AppConfig):\n    name = 'app1'",
+        "detail": "mylogin.app1.apps",
+        "documentation": {}
+    },
+    {
+        "label": "postuserform",
+        "kind": 6,
+        "importPath": "mylogin.app1.forms",
+        "description": "mylogin.app1.forms",
+        "peekOfCode": "class postuserform(forms.Form):\n    content = forms.CharField(max_length=100)\n    created_by = forms.CharField(max_length=100)\nclass regForm(forms.Form):\n    username = forms.CharField(validators=[UsernameValidator()])\n    password = forms.CharField(validators=[PasswordValidator(8, 20)])\n    fullname = forms.CharField(max_length=100)\n    address = forms.CharField(max_length=100)\n    gender = forms.ChoiceField(\n        choices=(('male', 'male'), ('female', 'female')))",
+        "detail": "mylogin.app1.forms",
+        "documentation": {}
+    },
+    {
+        "label": "regForm",
+        "kind": 6,
+        "importPath": "mylogin.app1.forms",
+        "description": "mylogin.app1.forms",
+        "peekOfCode": "class regForm(forms.Form):\n    username = forms.CharField(validators=[UsernameValidator()])\n    password = forms.CharField(validators=[PasswordValidator(8, 20)])\n    fullname = forms.CharField(max_length=100)\n    address = forms.CharField(max_length=100)\n    gender = forms.ChoiceField(\n        choices=(('male', 'male'), ('female', 'female')))\n    def clean_username(self):\n        uname = self.cleaned_data['username']\n        print(\"entered name--->\", uname)",
+        "detail": "mylogin.app1.forms",
+        "documentation": {}
+    },
+    {
+        "label": "postupdateform",
+        "kind": 6,
+        "importPath": "mylogin.app1.forms",
+        "description": "mylogin.app1.forms",
+        "peekOfCode": "class postupdateform(forms.ModelForm):\n    class Meta:\n        model = postt\n        fields='__all__'",
+        "detail": "mylogin.app1.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "kind": 6,
+        "importPath": "mylogin.app1.models",
+        "description": "mylogin.app1.models",
+        "peekOfCode": "class Users(models.Model):\n    Username = models.CharField(max_length=20, unique=True)\n    Password = models.CharField(max_length=50)\n    Fullname = models.CharField(max_length=20)\n    Address = models.CharField(max_length=50)\n    Gender = models.CharField(max_length=10)\n    def __str__(self):\n        return f\"{self.Username}\"\nclass postt(models.Model):\n    overview = models.ForeignKey(Users, on_delete=models.CASCADE)",
+        "detail": "mylogin.app1.models",
+        "documentation": {}
+    },
+    {
+        "label": "postt",
+        "kind": 6,
+        "importPath": "mylogin.app1.models",
+        "description": "mylogin.app1.models",
+        "peekOfCode": "class postt(models.Model):\n    overview = models.ForeignKey(Users, on_delete=models.CASCADE)\n    content = models.TextField()\n    created_by = models.CharField(max_length=100)\n    cr_date = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return \"content:-{} \\n created by:-{} \\n cr_date:-{} \\n\".format(self.content, self.created_by, self.cr_date)",
+        "detail": "mylogin.app1.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "mylogin.app1.urls",
+        "description": "mylogin.app1.urls",
+        "peekOfCode": "urlpatterns = [\n    path('reg/', views.empRegView, name='register'),\n    # path('formpost/',views.userposts,name='postform'),\n    path('log/', views.loginview),\n    path('delete/<int:pk>/', views.deleteview, name='delete'),\n    path('update/<int:pk>/', views.updateview, name='update'),\n]",
+        "detail": "mylogin.app1.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UsernameValidator",
+        "kind": 6,
+        "importPath": "mylogin.app1.validators",
+        "description": "mylogin.app1.validators",
+        "peekOfCode": "class UsernameValidator(object):\n    def __init__(self):\n        pass\n    def validate(self, value):\n        if Users.objects.filter(username=value):\n            raise ValidationError(f\"The user with {value} already exists\")\n        return value\n    def __call__(self, value):\n        return self.validate(value)\nclass PasswordValidator(object):",
+        "detail": "mylogin.app1.validators",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordValidator",
+        "kind": 6,
+        "importPath": "mylogin.app1.validators",
+        "description": "mylogin.app1.validators",
+        "peekOfCode": "class PasswordValidator(object):\n    def __init__(self, min_digits=0, max_digits=0):\n        self.min_digits = min_digits\n        self.max_digits = max_digits\n    def validate(self, value):\n        if len(value) < self.min_digits or len(value) > self.max_digits:\n            raise ValidationError(\n                'The Password must be between 8 to 20 characters')\n        if not any(x.islower() for x in value):\n            raise ValidationError(",
+        "detail": "mylogin.app1.validators",
+        "documentation": {}
+    },
+    {
+        "label": "UsernameValidator",
+        "kind": 6,
+        "importPath": "mylogin.app1.validators",
+        "description": "mylogin.app1.validators",
+        "peekOfCode": "class UsernameValidator(object):\n    def __init__(self):\n        pass\n    def validate(self, value):\n        if Users.objects.filter(Username=value):\n            raise ValidationError(f\"The user with {value} already exists\")\n        return value\n    def __call__(self, value):\n        return self.validate(value)",
+        "detail": "mylogin.app1.validators",
+        "documentation": {}
+    },
+    {
+        "label": "empRegView",
+        "kind": 2,
+        "importPath": "mylogin.app1.views",
+        "description": "mylogin.app1.views",
+        "peekOfCode": "def empRegView(request):\n    template_name = 'app1/register.html'\n    if request.method == 'GET':\n        form = regForm()\n        return render(request, template_name, {'form': form})\n    else:\n        form = regForm(request.POST)\n        if form.is_valid():\n            u = form.cleaned_data.get('username')\n            p = form.cleaned_data.get('password')",
+        "detail": "mylogin.app1.views",
+        "documentation": {}
+    },
+    {
+        "label": "loginview",
+        "kind": 2,
+        "importPath": "mylogin.app1.views",
+        "description": "mylogin.app1.views",
+        "peekOfCode": "def loginview(request):\n    if request.method == 'GET':\n        template_name = \"app1/login.html\"\n        return render(request, template_name)\n    else:\n        u = request.POST['username']\n        p = request.POST['password']\n        if Users.objects.get(Username=u, Password=p):\n            posts = postt.objects.filter(overview__Username=u)\n            context = {\"us\": posts}",
+        "detail": "mylogin.app1.views",
+        "documentation": {}
+    },
+    {
+        "label": "deleteview",
+        "kind": 2,
+        "importPath": "mylogin.app1.views",
+        "description": "mylogin.app1.views",
+        "peekOfCode": "def deleteview(request, pk):\n    try:\n        data = postt.objects.get(pk=pk)\n        if request.method == 'GET':\n            context = {'obj': data}\n            template_name = \"app1/delete.html\"\n            return render(request, template_name, context)\n        else:\n            data.delete()\n            return redirect('register')",
+        "detail": "mylogin.app1.views",
+        "documentation": {}
+    },
+    {
+        "label": "updateview",
+        "kind": 2,
+        "importPath": "mylogin.app1.views",
+        "description": "mylogin.app1.views",
+        "peekOfCode": "def updateview(request, pk):\n    try:\n        data = postt.objects.get(pk=pk)\n        if request.method == 'GET':\n            form = postupdateform(instance=data)\n            template_name = 'app1/update.html'\n            context = {'form': form}\n            return render(request, template_name, context)\n        else:\n            form = postupdateform(request.POST, instance=data)",
+        "detail": "mylogin.app1.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "mylogin.project1.asgi",
+        "description": "mylogin.project1.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "mylogin.project1.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'l8_m6=uvg!y(n5g4%e)=3deq!9i=$^z$qeu190%gwh93=+bxs8'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "SECRET_KEY = 'l8_m6=uvg!y(n5g4%e)=3deq!9i=$^z$qeu190%gwh93=+bxs8'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1',",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app1',\n    'crispy_forms',\n]",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nCRISPY_TEMPLATE_PACK = 'bootstrap4'",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = 'bootstrap4'\nROOT_URLCONF = 'project1.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "ROOT_URLCONF = 'project1.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'project1.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'djangologin',\n        'USER': 'root',\n        'PASSWORD': 'root'\n    }",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'djangologin',\n        'USER': 'root',\n        'PASSWORD': 'root'\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "TIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "mylogin.project1.settings",
+        "description": "mylogin.project1.settings",
+        "peekOfCode": "STATIC_URL = '/static/'",
+        "detail": "mylogin.project1.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "mylogin.project1.urls",
+        "description": "mylogin.project1.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('a1/',include(\"app1.urls\")),\n]",
+        "detail": "mylogin.project1.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "mylogin.project1.wsgi",
+        "description": "mylogin.project1.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "mylogin.project1.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "mylogin.manage",
+        "description": "mylogin.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'project1.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "mylogin.manage",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.asgi",
+        "description": "using django form.DjangoProject.DjangoProject.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "using django form.DjangoProject.DjangoProject.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'qz60p-q&wx#fhjx!pxd=%0!nverv%ew%gpy(34_+97dk8d=gd0'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "SECRET_KEY = 'qz60p-q&wx#fhjx!pxd=%0!nverv%ew%gpy(34_+97dk8d=gd0'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'PostsApp',",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'PostsApp',\n    'crispy_forms'\n]",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = 'bootstrap4'\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'DjangoProject.urls'",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "ROOT_URLCONF = 'DjangoProject.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'DjangoProject.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "TIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.settings",
+        "description": "using django form.DjangoProject.DjangoProject.settings",
+        "peekOfCode": "STATIC_URL = '/static/'",
+        "detail": "using django form.DjangoProject.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.urls",
+        "description": "using django form.DjangoProject.DjangoProject.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('postapp/',include('PostsApp.urls'))\n]",
+        "detail": "using django form.DjangoProject.DjangoProject.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.DjangoProject.wsgi",
+        "description": "using django form.DjangoProject.DjangoProject.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "using django form.DjangoProject.DjangoProject.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "using django form.DjangoProject.PostsApp.migrations.0001_initial",
+        "description": "using django form.DjangoProject.PostsApp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='registration',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=20)),",
+        "detail": "using django form.DjangoProject.PostsApp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "registrationAdmin",
+        "kind": 6,
+        "importPath": "using django form.DjangoProject.PostsApp.admin",
+        "description": "using django form.DjangoProject.PostsApp.admin",
+        "peekOfCode": "class registrationAdmin(admin.ModelAdmin):\n    list_display = ['name', 'email', 'gender', 'username', 'password']\nadmin.site.register(registration, registrationAdmin)\nclass postsAdmin(admin.ModelAdmin):\n    list_display = ['id', 'author', 'title', 'content', 'date']\nadmin.site.register(posts, postsAdmin)",
+        "detail": "using django form.DjangoProject.PostsApp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "postsAdmin",
+        "kind": 6,
+        "importPath": "using django form.DjangoProject.PostsApp.admin",
+        "description": "using django form.DjangoProject.PostsApp.admin",
+        "peekOfCode": "class postsAdmin(admin.ModelAdmin):\n    list_display = ['id', 'author', 'title', 'content', 'date']\nadmin.site.register(posts, postsAdmin)",
+        "detail": "using django form.DjangoProject.PostsApp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "PostsappConfig",
+        "kind": 6,
+        "importPath": "using django form.DjangoProject.PostsApp.apps",
+        "description": "using django form.DjangoProject.PostsApp.apps",
+        "peekOfCode": "class PostsappConfig(AppConfig):\n    name = 'PostsApp'",
+        "detail": "using django form.DjangoProject.PostsApp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserForm",
+        "kind": 6,
+        "importPath": "using django form.DjangoProject.PostsApp.forms",
+        "description": "using django form.DjangoProject.PostsApp.forms",
+        "peekOfCode": "class UserForm(forms.Form):\n    Name = forms.CharField(max_length=20, validators=[nameValidator])\n    Email = forms.EmailField(validators=[emailValidator])\n    Gender = forms.ChoiceField(\n        choices=(('male', 'male'), ('female', 'female')))\n    Username = forms.CharField(max_length=10, validators=[usernameValidator])\n    Password = forms.CharField(max_length=10)\nclass PostsForm(forms.Form):\n    Author = forms.ModelChoiceField(queryset=registration.objects.all())\n    Title = forms.CharField(max_length=40)",
+        "detail": "using django form.DjangoProject.PostsApp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "PostsForm",
+        "kind": 6,
+        "importPath": "using django form.DjangoProject.PostsApp.forms",
+        "description": "using django form.DjangoProject.PostsApp.forms",
+        "peekOfCode": "class PostsForm(forms.Form):\n    Author = forms.ModelChoiceField(queryset=registration.objects.all())\n    Title = forms.CharField(max_length=40)\n    Content = forms.CharField(widget=forms.Textarea)\n    # Date = forms.DateField(initial=datetime.date.today)\nclass postupdateform(forms.Form):\n    # Author = forms.ModelChoiceField(queryset=registration.objects.all())\n    Title = forms.CharField(max_length=40)\n    Content = forms.CharField(widget=forms.Textarea)",
+        "detail": "using django form.DjangoProject.PostsApp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "postupdateform",
+        "kind": 6,
+        "importPath": "using django form.DjangoProject.PostsApp.forms",
+        "description": "using django form.DjangoProject.PostsApp.forms",
+        "peekOfCode": "class postupdateform(forms.Form):\n    # Author = forms.ModelChoiceField(queryset=registration.objects.all())\n    Title = forms.CharField(max_length=40)\n    Content = forms.CharField(widget=forms.Textarea)",
+        "detail": "using django form.DjangoProject.PostsApp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "registration",
+        "kind": 6,
+        "importPath": "using django form.DjangoProject.PostsApp.models",
+        "description": "using django form.DjangoProject.PostsApp.models",
+        "peekOfCode": "class registration(models.Model):\n    name = models.CharField(max_length=20)\n    email = models.EmailField(unique=True)\n    gender = models.CharField(max_length=8)\n    username = models.CharField(max_length=10, unique=True)\n    password = models.CharField(max_length=10)\n    def __str__(self):\n        return f'{self.username}'\nclass posts(models.Model):\n    author = models.ForeignKey(registration, on_delete=models.CASCADE)",
+        "detail": "using django form.DjangoProject.PostsApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "posts",
+        "kind": 6,
+        "importPath": "using django form.DjangoProject.PostsApp.models",
+        "description": "using django form.DjangoProject.PostsApp.models",
+        "peekOfCode": "class posts(models.Model):\n    author = models.ForeignKey(registration, on_delete=models.CASCADE)\n    title = models.CharField(max_length=40)\n    content = models.CharField(max_length=500)\n    date = models.DateTimeField(auto_now_add=True)",
+        "detail": "using django form.DjangoProject.PostsApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "using django form.DjangoProject.PostsApp.urls",
+        "description": "using django form.DjangoProject.PostsApp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('register/', views.regView, name='UserRegister'),\n    path('login/', views.loginView, name='Userlogin'),\n    path('addpost/', views.postView, name='AddPost'),\n    path('allposts/', views.UserPosts, name='UserPosts'),\n    path('final/', views.finalView, name='final'),\n    path('search/', views.search, name=\"search\"),\n    path('delete/<int:pk>/', views.deleteview, name='delete'),\n    path('update/<int:pk>/', views.updateview, name='update'),\n]",
+        "detail": "using django form.DjangoProject.PostsApp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "nameValidator",
+        "kind": 2,
+        "importPath": "using django form.DjangoProject.PostsApp.validations",
+        "description": "using django form.DjangoProject.PostsApp.validations",
+        "peekOfCode": "def nameValidator(value):\n    if len(value) <= 2 or len(value)>10:\n        raise ValidationError('Enter valid name')\n    return value\ndef usernameValidator(value):\n    if registration.objects.filter(username=value):\n        raise ValidationError('Username already exists!!')\n    return value\ndef emailValidator(value):\n    if registration.objects.filter(email=value):",
+        "detail": "using django form.DjangoProject.PostsApp.validations",
+        "documentation": {}
+    },
+    {
+        "label": "usernameValidator",
+        "kind": 2,
+        "importPath": "using django form.DjangoProject.PostsApp.validations",
+        "description": "using django form.DjangoProject.PostsApp.validations",
+        "peekOfCode": "def usernameValidator(value):\n    if registration.objects.filter(username=value):\n        raise ValidationError('Username already exists!!')\n    return value\ndef emailValidator(value):\n    if registration.objects.filter(email=value):\n        raise ValidationError('email already exists!! Please Login...')\n    return value",
+        "detail": "using django form.DjangoProject.PostsApp.validations",
+        "documentation": {}
+    },
+    {
+        "label": "emailValidator",
+        "kind": 2,
+        "importPath": "using django form.DjangoProject.PostsApp.validations",
+        "description": "using django form.DjangoProject.PostsApp.validations",
+        "peekOfCode": "def emailValidator(value):\n    if registration.objects.filter(email=value):\n        raise ValidationError('email already exists!! Please Login...')\n    return value",
+        "detail": "using django form.DjangoProject.PostsApp.validations",
+        "documentation": {}
+    },
+    {
+        "label": "regView",
+        "kind": 2,
+        "importPath": "using django form.DjangoProject.PostsApp.views",
+        "description": "using django form.DjangoProject.PostsApp.views",
+        "peekOfCode": "def regView(req):\n    if req.method == 'GET':\n        form = UserForm()\n    else:\n        form = UserForm(req.POST)\n        if form.is_valid():\n            n = form.cleaned_data['Name']\n            e = form.cleaned_data['Email']\n            g = form.cleaned_data['Gender']\n            un = form.cleaned_data['Username']",
+        "detail": "using django form.DjangoProject.PostsApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "loginView",
+        "kind": 2,
+        "importPath": "using django form.DjangoProject.PostsApp.views",
+        "description": "using django form.DjangoProject.PostsApp.views",
+        "peekOfCode": "def loginView(req):\n    if req.method == 'POST':\n        usernm = req.POST['un']\n        pswd = req.POST['pas']\n        user = registration.objects.filter(username=usernm, password=pswd)\n        if user:\n            template_name = 'PostsApp/userPosts.html'\n            # all_posts = posts.objects.all().order_by('-date')\n            # context = {'posts': all_posts, 'current_user': usernm}\n            user_posts = posts.objects.filter(",
+        "detail": "using django form.DjangoProject.PostsApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserPosts",
+        "kind": 2,
+        "importPath": "using django form.DjangoProject.PostsApp.views",
+        "description": "using django form.DjangoProject.PostsApp.views",
+        "peekOfCode": "def UserPosts(req):\n    template_name = 'PostsApp/allPosts.html'\n    user_posts = posts.objects.all().order_by('-date')\n    context = {'posts': user_posts}\n    return render(req, template_name, context)\ndef postView(req):\n    if req.method == 'GET':\n        template_name = 'PostsApp/addPost.html'\n        form = PostsForm()\n        context = {'post_form': form}",
+        "detail": "using django form.DjangoProject.PostsApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "postView",
+        "kind": 2,
+        "importPath": "using django form.DjangoProject.PostsApp.views",
+        "description": "using django form.DjangoProject.PostsApp.views",
+        "peekOfCode": "def postView(req):\n    if req.method == 'GET':\n        template_name = 'PostsApp/addPost.html'\n        form = PostsForm()\n        context = {'post_form': form}\n        return render(req, template_name, context)\n    else:\n        form = PostsForm(req.POST)\n        if form.is_valid():\n            auth = form.cleaned_data['Author']",
+        "detail": "using django form.DjangoProject.PostsApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "finalView",
+        "kind": 2,
+        "importPath": "using django form.DjangoProject.PostsApp.views",
+        "description": "using django form.DjangoProject.PostsApp.views",
+        "peekOfCode": "def finalView(req):\n    template_name = 'PostsApp/final.html'\n    context = {'msg': 'Post Added Successfully'}\n    return render(req, template_name, context)\ndef search(request):\n    query = request.GET['query']\n    titlePosts = posts.objects.filter(\n        Q(title__icontains=query) | Q(author__username__icontains=query) | Q(content__icontains=query)).order_by('-date')\n    # contentposts = posts.objects.filter(content__icontains=query)\n    # authorposts = posts.objects.filter(author__icontains=query)",
+        "detail": "using django form.DjangoProject.PostsApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "using django form.DjangoProject.PostsApp.views",
+        "description": "using django form.DjangoProject.PostsApp.views",
+        "peekOfCode": "def search(request):\n    query = request.GET['query']\n    titlePosts = posts.objects.filter(\n        Q(title__icontains=query) | Q(author__username__icontains=query) | Q(content__icontains=query)).order_by('-date')\n    # contentposts = posts.objects.filter(content__icontains=query)\n    # authorposts = posts.objects.filter(author__icontains=query)\n    # allPosts = posts.objects.all()\n    params = {'allPosts': titlePosts}\n    return render(request, 'PostsApp/search.html', params)\n    # return HttpResponse(\"this is search\")",
+        "detail": "using django form.DjangoProject.PostsApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "deleteview",
+        "kind": 2,
+        "importPath": "using django form.DjangoProject.PostsApp.views",
+        "description": "using django form.DjangoProject.PostsApp.views",
+        "peekOfCode": "def deleteview(request, pk):\n    try:\n        data = posts.objects.get(pk=pk)\n        if request.method == 'GET':\n            context = {'obj': data}\n            template_name = \"PostsApp/delete.html\"\n            return render(request, template_name, context)\n        else:\n            data.delete()\n            return redirect('register')",
+        "detail": "using django form.DjangoProject.PostsApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "updateview",
+        "kind": 2,
+        "importPath": "using django form.DjangoProject.PostsApp.views",
+        "description": "using django form.DjangoProject.PostsApp.views",
+        "peekOfCode": "def updateview(request, pk):\n    try:\n        # print(pk)\n        data = posts.objects.get(pk=pk)\n        # print(data.pk)\n        if request.method == 'GET':\n            form = postupdateform(\n                initial={'Content': data.content, 'Title': data.title})\n            print(form)\n            template_name = 'PostsApp/update.html'",
+        "detail": "using django form.DjangoProject.PostsApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "using django form.DjangoProject.manage",
+        "description": "using django form.DjangoProject.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'DjangoProject.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "using django form.DjangoProject.manage",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.asgi",
+        "description": "using model form.DjangoProject.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "using model form.DjangoProject.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'qz60p-q&wx#fhjx!pxd=%0!nverv%ew%gpy(34_+97dk8d=gd0'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "SECRET_KEY = 'qz60p-q&wx#fhjx!pxd=%0!nverv%ew%gpy(34_+97dk8d=gd0'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'PostsApp',",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'PostsApp',\n    'crispy_forms'\n]",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = 'bootstrap4'\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'DjangoProject.urls'",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "ROOT_URLCONF = 'DjangoProject.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'DjangoProject.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "TIME_ZONE = 'Asia/Kolkata'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.settings",
+        "description": "using model form.DjangoProject.settings",
+        "peekOfCode": "STATIC_URL = '/static/'",
+        "detail": "using model form.DjangoProject.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.urls",
+        "description": "using model form.DjangoProject.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('postapp/',include('PostsApp.urls'))\n]",
+        "detail": "using model form.DjangoProject.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "using model form.DjangoProject.wsgi",
+        "description": "using model form.DjangoProject.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "using model form.DjangoProject.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "using model form.PostsApp.migrations.0001_initial",
+        "description": "using model form.PostsApp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='registration',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=20)),",
+        "detail": "using model form.PostsApp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "using model form.PostsApp.migrations.0002_auto_20201006_1318",
+        "description": "using model form.PostsApp.migrations.0002_auto_20201006_1318",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('PostsApp', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='registration',\n            name='username',\n            field=models.CharField(max_length=10, unique=True),\n        ),",
+        "detail": "using model form.PostsApp.migrations.0002_auto_20201006_1318",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "using model form.PostsApp.migrations.0003_posts",
+        "description": "using model form.PostsApp.migrations.0003_posts",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('PostsApp', '0002_auto_20201006_1318'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='posts',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=40)),",
+        "detail": "using model form.PostsApp.migrations.0003_posts",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "using model form.PostsApp.migrations.0004_auto_20201007_1209",
+        "description": "using model form.PostsApp.migrations.0004_auto_20201007_1209",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('PostsApp', '0003_posts'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='posts',\n            name='date',\n            field=models.DateTimeField(auto_now_add=True),\n        ),",
+        "detail": "using model form.PostsApp.migrations.0004_auto_20201007_1209",
+        "documentation": {}
+    },
+    {
+        "label": "registrationAdmin",
+        "kind": 6,
+        "importPath": "using model form.PostsApp.admin",
+        "description": "using model form.PostsApp.admin",
+        "peekOfCode": "class registrationAdmin(admin.ModelAdmin):\n    list_display = ['name', 'email', 'gender', 'username', 'password']\nadmin.site.register(registration, registrationAdmin)\nclass postsAdmin(admin.ModelAdmin):\n    list_display = ['id', 'author', 'title', 'content', 'date']\nadmin.site.register(posts, postsAdmin)",
+        "detail": "using model form.PostsApp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "postsAdmin",
+        "kind": 6,
+        "importPath": "using model form.PostsApp.admin",
+        "description": "using model form.PostsApp.admin",
+        "peekOfCode": "class postsAdmin(admin.ModelAdmin):\n    list_display = ['id', 'author', 'title', 'content', 'date']\nadmin.site.register(posts, postsAdmin)",
+        "detail": "using model form.PostsApp.admin",
+        "documentation": {}
+    },
+    {
+        "label": "PostsappConfig",
+        "kind": 6,
+        "importPath": "using model form.PostsApp.apps",
+        "description": "using model form.PostsApp.apps",
+        "peekOfCode": "class PostsappConfig(AppConfig):\n    name = 'PostsApp'",
+        "detail": "using model form.PostsApp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserForm",
+        "kind": 6,
+        "importPath": "using model form.PostsApp.forms",
+        "description": "using model form.PostsApp.forms",
+        "peekOfCode": "class UserForm(forms.Form):\n    Name = forms.CharField(max_length=20, validators=[nameValidator])\n    Email = forms.EmailField(validators=[emailValidator])\n    Gender = forms.ChoiceField(\n        choices=(('male', 'male'), ('female', 'female')))\n    Username = forms.CharField(max_length=10, validators=[usernameValidator])\n    Password = forms.CharField(max_length=10)\nclass PostsForm(forms.Form):\n    Author = forms.ModelChoiceField(queryset=registration.objects.all())\n    Title = forms.CharField(max_length=40)",
+        "detail": "using model form.PostsApp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "PostsForm",
+        "kind": 6,
+        "importPath": "using model form.PostsApp.forms",
+        "description": "using model form.PostsApp.forms",
+        "peekOfCode": "class PostsForm(forms.Form):\n    Author = forms.ModelChoiceField(queryset=registration.objects.all())\n    Title = forms.CharField(max_length=40)\n    Content = forms.CharField(widget=forms.Textarea)\n    # Date = forms.DateField(initial=datetime.date.today)\nclass postupdateform(forms.ModelForm):\n    class Meta:\n        model = posts\n        fields = '__all__'",
+        "detail": "using model form.PostsApp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "postupdateform",
+        "kind": 6,
+        "importPath": "using model form.PostsApp.forms",
+        "description": "using model form.PostsApp.forms",
+        "peekOfCode": "class postupdateform(forms.ModelForm):\n    class Meta:\n        model = posts\n        fields = '__all__'",
+        "detail": "using model form.PostsApp.forms",
+        "documentation": {}
+    },
+    {
+        "label": "registration",
+        "kind": 6,
+        "importPath": "using model form.PostsApp.models",
+        "description": "using model form.PostsApp.models",
+        "peekOfCode": "class registration(models.Model):\n    name = models.CharField(max_length=20)\n    email = models.EmailField(unique=True)\n    gender = models.CharField(max_length=8)\n    username = models.CharField(max_length=10, unique=True)\n    password = models.CharField(max_length=10)\n    def __str__(self):\n        return f'{self.username}'\nclass posts(models.Model):\n    author = models.ForeignKey(registration, on_delete=models.CASCADE)",
+        "detail": "using model form.PostsApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "posts",
+        "kind": 6,
+        "importPath": "using model form.PostsApp.models",
+        "description": "using model form.PostsApp.models",
+        "peekOfCode": "class posts(models.Model):\n    author = models.ForeignKey(registration, on_delete=models.CASCADE)\n    title = models.CharField(max_length=40)\n    content = models.CharField(max_length=500)\n    date = models.DateTimeField(auto_now_add=True)",
+        "detail": "using model form.PostsApp.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "using model form.PostsApp.urls",
+        "description": "using model form.PostsApp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('register/', views.regView, name='UserRegister'),\n    path('login/', views.loginView, name='Userlogin'),\n    path('addpost/', views.postView, name='AddPost'),\n    path('allposts/', views.UserPosts, name='UserPosts'),\n    path('final/', views.finalView, name='final'),\n    path('search/', views.search, name=\"search\"),\n    path('delete/<int:pk>/', views.deleteview, name='delete'),\n    path('update/<int:pk>/', views.updateview, name='update'),\n]",
+        "detail": "using model form.PostsApp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "nameValidator",
+        "kind": 2,
+        "importPath": "using model form.PostsApp.validations",
+        "description": "using model form.PostsApp.validations",
+        "peekOfCode": "def nameValidator(value):\n    if len(value) <= 2 or len(value)>10:\n        raise ValidationError('Enter valid name')\n    return value\ndef usernameValidator(value):\n    if registration.objects.filter(username=value):\n        raise ValidationError('Username already exists!!')\n    return value\ndef emailValidator(value):\n    if registration.objects.filter(email=value):",
+        "detail": "using model form.PostsApp.validations",
+        "documentation": {}
+    },
+    {
+        "label": "usernameValidator",
+        "kind": 2,
+        "importPath": "using model form.PostsApp.validations",
+        "description": "using model form.PostsApp.validations",
+        "peekOfCode": "def usernameValidator(value):\n    if registration.objects.filter(username=value):\n        raise ValidationError('Username already exists!!')\n    return value\ndef emailValidator(value):\n    if registration.objects.filter(email=value):\n        raise ValidationError('email already exists!! Please Login...')\n    return value",
+        "detail": "using model form.PostsApp.validations",
+        "documentation": {}
+    },
+    {
+        "label": "emailValidator",
+        "kind": 2,
+        "importPath": "using model form.PostsApp.validations",
+        "description": "using model form.PostsApp.validations",
+        "peekOfCode": "def emailValidator(value):\n    if registration.objects.filter(email=value):\n        raise ValidationError('email already exists!! Please Login...')\n    return value",
+        "detail": "using model form.PostsApp.validations",
+        "documentation": {}
+    },
+    {
+        "label": "regView",
+        "kind": 2,
+        "importPath": "using model form.PostsApp.views",
+        "description": "using model form.PostsApp.views",
+        "peekOfCode": "def regView(req):\n    if req.method == 'GET':\n        form = UserForm()\n    else:\n        form = UserForm(req.POST)\n        if form.is_valid():\n            n = form.cleaned_data['Name']\n            e = form.cleaned_data['Email']\n            g = form.cleaned_data['Gender']\n            un = form.cleaned_data['Username']",
+        "detail": "using model form.PostsApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "loginView",
+        "kind": 2,
+        "importPath": "using model form.PostsApp.views",
+        "description": "using model form.PostsApp.views",
+        "peekOfCode": "def loginView(req):\n    if req.method == 'POST':\n        usernm = req.POST['un']\n        pswd = req.POST['pas']\n        user = registration.objects.filter(username=usernm, password=pswd)\n        if user:\n            template_name = 'PostsApp/userPosts.html'\n            # all_posts = posts.objects.all().order_by('-date')\n            # context = {'posts': all_posts, 'current_user': usernm}\n            user_posts = posts.objects.filter(",
+        "detail": "using model form.PostsApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserPosts",
+        "kind": 2,
+        "importPath": "using model form.PostsApp.views",
+        "description": "using model form.PostsApp.views",
+        "peekOfCode": "def UserPosts(req):\n    template_name = 'PostsApp/allPosts.html'\n    user_posts = posts.objects.all().order_by('-date')\n    context = {'posts': user_posts}\n    return render(req, template_name, context)\ndef postView(req):\n    if req.method == 'GET':\n        template_name = 'PostsApp/addPost.html'\n        form = PostsForm()\n        context = {'post_form': form}",
+        "detail": "using model form.PostsApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "postView",
+        "kind": 2,
+        "importPath": "using model form.PostsApp.views",
+        "description": "using model form.PostsApp.views",
+        "peekOfCode": "def postView(req):\n    if req.method == 'GET':\n        template_name = 'PostsApp/addPost.html'\n        form = PostsForm()\n        context = {'post_form': form}\n        return render(req, template_name, context)\n    else:\n        form = PostsForm(req.POST)\n        if form.is_valid():\n            auth = form.cleaned_data['Author']",
+        "detail": "using model form.PostsApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "finalView",
+        "kind": 2,
+        "importPath": "using model form.PostsApp.views",
+        "description": "using model form.PostsApp.views",
+        "peekOfCode": "def finalView(req):\n    template_name = 'PostsApp/final.html'\n    context = {'msg': 'Post Added Successfully'}\n    return render(req, template_name, context)\ndef search(request):\n    query = request.GET['query']\n    titlePosts = posts.objects.filter(\n        Q(title__icontains=query) | Q(author__username__icontains=query) | Q(content__icontains=query)).order_by('-date')\n    # contentposts = posts.objects.filter(content__icontains=query)\n    # authorposts = posts.objects.filter(author__icontains=query)",
+        "detail": "using model form.PostsApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "using model form.PostsApp.views",
+        "description": "using model form.PostsApp.views",
+        "peekOfCode": "def search(request):\n    query = request.GET['query']\n    titlePosts = posts.objects.filter(\n        Q(title__icontains=query) | Q(author__username__icontains=query) | Q(content__icontains=query)).order_by('-date')\n    # contentposts = posts.objects.filter(content__icontains=query)\n    # authorposts = posts.objects.filter(author__icontains=query)\n    # allPosts = posts.objects.all()\n    params = {'allPosts': titlePosts}\n    return render(request, 'PostsApp/search.html', params)\n    # return HttpResponse(\"this is search\")",
+        "detail": "using model form.PostsApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "deleteview",
+        "kind": 2,
+        "importPath": "using model form.PostsApp.views",
+        "description": "using model form.PostsApp.views",
+        "peekOfCode": "def deleteview(request, pk):\n    try:\n        data = posts.objects.get(pk=pk)\n        if request.method == 'GET':\n            context = {'obj': data}\n            template_name = \"PostsApp/delete.html\"\n            return render(request, template_name, context)\n        else:\n            data.delete()\n            return redirect('register')",
+        "detail": "using model form.PostsApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "updateview",
+        "kind": 2,
+        "importPath": "using model form.PostsApp.views",
+        "description": "using model form.PostsApp.views",
+        "peekOfCode": "def updateview(request, pk):\n    try:\n        data = posts.objects.get(pk=pk)\n        if request.method == 'GET':\n            form = postupdateform(instance=data)\n            template_name = 'PostsApp/update.html'\n            context = {'form': form}\n            return render(request, template_name, context)\n        else:\n            form = postupdateform(request.POST, instance=data)",
+        "detail": "using model form.PostsApp.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "using model form.manage",
+        "description": "using model form.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'DjangoProject.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "using model form.manage",
+        "documentation": {}
+    }
+]

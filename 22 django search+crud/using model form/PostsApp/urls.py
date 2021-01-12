@@ -10,5 +10,7 @@ urlpatterns = [
     path('search/', views.search, name="search"),
     path('delete/<int:pk>/', views.deleteview, name='delete'),
     path('update/<int:pk>/', views.updateview, name='update'),
+    path('username/', views.sample),
+
 
 ]

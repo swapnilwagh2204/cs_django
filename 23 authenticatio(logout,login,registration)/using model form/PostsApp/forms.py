@@ -16,7 +16,7 @@ class UserForm(forms.Form):
 
 
 class PostsForm(forms.Form):
-    Author = forms.ModelChoiceField(queryset=User.objects.all())
+    # Author = forms.CharField(max_length=100)
     Title = forms.CharField(max_length=40)
     Content = forms.CharField(widget=forms.Textarea)
     # Date = forms.DateField(initial=datetime.date.today)
@@ -25,4 +25,4 @@ class PostsForm(forms.Form):
 class postupdateform(forms.ModelForm):
     class Meta:
         model = posts
-        fields = '__all__'
+        exclude = ['author']

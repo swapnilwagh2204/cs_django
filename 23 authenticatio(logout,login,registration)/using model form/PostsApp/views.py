@@ -30,8 +30,10 @@ def loginView(request):
     else:
         u = request.POST['un']
         p = request.POST['pas']
-        print(u, p)
+        # print(u, p)
+
         user = authenticate(username=u, password=p)
+        print(user)
         if user is not None:
             login(request, user)
             if request.GET.get('next'):
@@ -64,13 +66,13 @@ def postView(req):
     else:
         form = PostsForm(req.POST)
         if form.is_valid():
-            auth = form.cleaned_data['Author']
+            auth = req.user
             title = form.cleaned_data['Title']
             content = form.cleaned_data['Content']
             # date = form.cleaned_data['Date']
             new_post = posts(author=auth, title=title, content=content)
             new_post.save()
-            return redirect('AddPost')
+            return redirect('UserPosts')
 
 
 def finalView(req):
@@ -79,6 +81,7 @@ def finalView(req):
     return render(req, template_name, context)
 
 
+@login_required(login_url='Userlogin')
 def search(request):
     query = request.GET['query']
     titlePosts = posts.objects.filter(
